@@ -1,0 +1,77 @@
+{
+  "name": "eddown",
+  "version": "0.0.1",
+  "description": "Downloader and scraper for educative.io for members",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "files": [
+    "lib"
+  ],
+  "bin": {
+    "eddown": "lib/cli.js"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "educative.io-scrape",
+    "educative.io-scraper",
+    "educative.io-downloader",
+    "educative.io-download",
+    "scraper",
+    "educative.io"
+  ],
+  "author": "Muhamed Didovic (github.com/muhamed-didovic)",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/muhamed-didovic/eddown.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@byungi/p-cancel-saga": "^0.2.1",
+    "@byungi/p-delay": "^0.2.0",
+    "@byungi/p-retry": "^0.2.2",
+    "@supercharge/promise-pool": "^2.3.0",
+    "axios": "^0.27.2",
+    "bluebird": "^3.7.2",
+    "chalk": "^5.0.1",
+    "cheerio": "^1.0.0-rc.12",
+    "chrome-finder": "^1.0.7",
+    "colors": "^1.4.0",
+    "dreidels": "^0.5.2",
+    "fs-extra": "^10.1.0",
+    "fuse.js": "^6.6.2",
+    "he": "^1.2.0",
+    "image-size": "^1.0.2",
+    "is-valid-path": "^0.1.1",
+    "jar-got": "^0.1.0",
+    "json2md": "^1.12.0",
+    "lodash": "^4.17.21",
+    "meow": "^9.0.0",
+    "node-html-markdown": "^1.2.0",
+    "ora": "^5.4.1",
+    "p-limit": "^3.1.0",
+    "pdfkit": "^0.13.0",
+    "prompts": "^2.4.2",
+    "puppeteer": "^16.2.0",
+    "puppeteer-core": "^16.2.0",
+    "puppeteer-extra": "^3.3.4",
+    "puppeteer-extra-plugin-stealth": "^2.11.0",
+    "remote-file-size": "^3.0.5",
+    "request": "^2.88.2",
+    "request-progress": "^3.0.0",
+    "requestretry": "^7.1.0",
+    "sanitize-filename": "^1.6.3",
+    "tough-cookie": "^4.0.0",
+    "util-is-email": "^1.0.0",
+    "youtube-dl-wrap": "^2.1.1",
+    "ytdl-run": "^0.2.1"
+  },
+  "devDependencies": {
+    "babel-jest": "^28.1.3",
+    "eslint": "^8.18.0",
+    "jest": "^28.1.3"
+  }
+}

@@ -1,0 +1,270 @@
+[
+    {
+        "url": "https://www.educative.io/courses/javascript-fundamentals-before-learning-react",
+        "title": "JavaScript Fundamentals Before Learning React"
+    },
+    {
+        "url": "https://www.educative.io/courses/software-design-patterns-best-practices",
+        "title": "Software Design Patterns Best Practices for Software Developers"
+    },
+    {
+        "url": "https://www.educative.io/courses/modern-cpp-concurrency-in-practice-get-the-most-out-of-any-machine",
+        "title": "Modern C++ Concurrency Get the most out of any machine"
+    },
+    {
+        "url": "https://www.educative.io/courses/intermediate-javascript",
+        "title": "Intermediate JavaScript Building Frontend Components"
+    },
+    {
+        "url": "https://www.educative.io/courses/cpp-standard-library-including-cpp-14-and-cpp-17",
+        "title": "C++ Standard Library including C++ 14 & C++ 17"
+    },
+    {
+        "url": "https://www.educative.io/courses/the-complete-javascript-course-build-a-real-world-app-from-scratch",
+        "title": "Complete JavaScript Course Build a Real World App from Scratch"
+    },
+    {
+        "url": "https://www.educative.io/courses/introduction-to-programming-in-go",
+        "title": "An Introduction to Programming in Go"
+    },
+    {
+        "url": "https://www.educative.io/courses/cpp-17-in-detail-a-deep-dive",
+        "title": "C++17 in Detail A Deep Dive"
+    },
+    {
+        "url": "https://www.educative.io/courses/web-development-a-primer",
+        "title": "Web Development A Primer"
+    },
+    {
+        "url": "https://www.educative.io/courses/a-complete-guide-to-launching-your-website-from-local-to-live",
+        "title": "A Complete Guide to Launching Your Website From Local to Live"
+    },
+    {
+        "url": "https://www.educative.io/courses/c-sharp-for-programmers-a-practical-guide",
+        "title": "C# for Programmers A Practical Guide"
+    },
+    {
+        "url": "https://www.educative.io/courses/full-speed-python",
+        "title": "Full Speed Python"
+    },
+    {
+        "url": "https://www.educative.io/courses/practical-guide-to-graphql-from-the-client-perspective",
+        "title": "A Practical Guide to GraphQL From the Client Perspective"
+    },
+    {
+        "url": "https://www.educative.io/courses/machine-learning-for-software-engineers",
+        "title": "Machine Learning for Software Engineers"
+    },
+    {
+        "url": "https://www.educative.io/courses/from-python-to-numpy",
+        "title": "From Python to Numpy"
+    },
+    {
+        "url": "https://www.educative.io/courses/learn-object-oriented-programming-in-cpp",
+        "title": "Learn Object-Oriented Programming in C++"
+    },
+    {
+        "url": "https://www.educative.io/courses/learn-object-oriented-programming-in-java",
+        "title": "Learn Object-Oriented Programming in Java"
+    },
+    {
+        "url": "https://www.educative.io/courses/integrating-firebase-with-react",
+        "title": "Integrating Firebase with React"
+    },
+    {
+        "url": "https://www.educative.io/courses/learn-object-oriented-programming-in-python",
+        "title": "Learn Object-Oriented Programming in Python"
+    },
+    {
+        "url": "https://www.educative.io/courses/learn-object-oriented-programming-in-javascript",
+        "title": "Learn Object-Oriented Programming in JavaScript"
+    },
+    {
+        "url": "https://www.educative.io/courses/mastering-concurrency-in-go",
+        "title": "Mastering Concurrency in Go"
+    },
+    {
+        "url": "https://www.educative.io/courses/practical-guide-to-kubernetes",
+        "title": "A Practical Guide to Kubernetes"
+    },
+    {
+        "url": "https://www.educative.io/courses/advanced-react-patterns-with-hooks",
+        "title": "Advanced React Patterns With Hooks"
+    },
+    {
+        "url": "https://www.educative.io/courses/definitive-guide-to-mongodb",
+        "title": "The Definitive Guide to MongoDB"
+    },
+    {
+        "url": "https://www.educative.io/courses/docker-for-developers",
+        "title": "Docker for Developers"
+    },
+    {
+        "url": "https://www.educative.io/courses/fixing-random-techniques-in-c-sharp",
+        "title": "Fixing Random Techniques in C#"
+    },
+    {
+        "url": "https://www.educative.io/courses/learn-object-oriented-programming-in-c-sharp",
+        "title": "Learn Object-Oriented Programming in C#"
+    },
+    {
+        "url": "https://www.educative.io/courses/grokking-data-science",
+        "title": "Grokking Data Science"
+    },
+    {
+        "url": "https://www.educative.io/courses/ds-and-algorithms-in-python",
+        "title": "Data Structures and Algorithms in Python"
+    },
+    {
+        "url": "https://www.educative.io/courses/reintroducing-react-v16-beyond",
+        "title": "Reintroducing React V16 and Beyond"
+    },
+    {
+        "url": "https://www.educative.io/courses/grokking-computer-networking",
+        "title": "Grokking Computer Networking for Software Engineers"
+    },
+    {
+        "url": "https://www.educative.io/courses/web-application-software-architecture-101",
+        "title": "Web Application and Software Architecture 101"
+    },
+    {
+        "url": "https://www.educative.io/courses/database-design-fundamentals",
+        "title": "Database Design Fundamentals for Software Engineers"
+    },
+    {
+        "url": "https://www.educative.io/courses/flask-develop-web-applications-in-python",
+        "title": "Flask Develop Web Applications in Python"
+    },
+    {
+        "url": "https://www.educative.io/courses/data-science-for-non-programmers",
+        "title": "Data Science for Non-Programmers"
+    },
+    {
+        "url": "https://www.educative.io/courses/python-for-scientists-and-engineers",
+        "title": "Python for Scientists and Engineers"
+    },
+    {
+        "url": "https://www.educative.io/courses/hands-on-blockchain-hyperledger-fabric",
+        "title": "Become a Blockchain Developer"
+    },
+    {
+        "url": "https://www.educative.io/courses/fullstack-web-apps-with-firebase",
+        "title": "Full-Stack Web Applications with Firebase"
+    },
+    {
+        "url": "https://www.educative.io/courses/complete-guide-to-modern-javascript",
+        "title": "The Complete Guide to Modern JavaScript"
+    },
+    {
+        "url": "https://www.educative.io/courses/kotlin-crash-course-for-programmers",
+        "title": "Kotlin Crash Course for Programmers"
+    },
+    {
+        "url": "https://www.educative.io/courses/learn-typescript-complete-course",
+        "title": "Learn TypeScript The Complete Course for Beginners"
+    },
+    {
+        "url": "https://www.educative.io/courses/sass-for-css",
+        "title": "Sass for CSS Advanced Frontend Development"
+    },
+    {
+        "url": "https://www.educative.io/courses/python-data-analysis-and-visualization",
+        "title": "Python Data Analysis and Visualization"
+    },
+    {
+        "url": "https://www.educative.io/courses/cpp-fundamentals-for-professionals",
+        "title": "C++ Fundamentals for Professionals"
+    },
+    {
+        "url": "https://www.educative.io/courses/modern-android-app-development",
+        "title": "Modern Android App Development with Java"
+    },
+    {
+        "url": "https://www.educative.io/courses/running-serverless-applications-aws-lambda",
+        "title": "Running Serverless Applications with AWS Lambda"
+    },
+    {
+        "url": "https://www.educative.io/courses/css-theming-for-professionals",
+        "title": "CSS Theming for Professionals"
+    },
+    {
+        "url": "https://www.educative.io/courses/introduction-microservice-principles-concepts",
+        "title": "An Introduction to Microservice Principles and Concepts"
+    },
+    {
+        "url": "https://www.educative.io/courses/introductory-guide-to-sql",
+        "title": "An Introductory Guide to SQL"
+    },
+    {
+        "url": "https://www.educative.io/courses/using-typescript-with-react",
+        "title": "Using TypeScript with React"
+    },
+    {
+        "url": "https://www.educative.io/courses/road-to-react-with-hooks",
+        "title": "The Road to React The One with Hooks"
+    },
+    {
+        "url": "https://www.educative.io/courses/programming-in-d-ultimate-guide",
+        "title": "Programming in D The Ultimate Guide for Software Engineers"
+    },
+    {
+        "url": "https://www.educative.io/courses/the-way-to-go",
+        "title": "The Way to Go"
+    },
+    {
+        "url": "https://www.educative.io/courses/web-development-unraveling-html-css-js",
+        "title": "Web Development Unraveling HTML, CSS, and JavaScript"
+    },
+    {
+        "url": "https://www.educative.io/courses/good-parts-of-aws",
+        "title": "The Good Parts of AWS Cutting Through the Clutter"
+    },
+    {
+        "url": "https://www.educative.io/courses/learn-cpp-complete-course",
+        "title": "Learn C++ The Complete Course for Beginners"
+    },
+    {
+        "url": "https://www.educative.io/courses/beginning-flutter-android-mobile-app-development",
+        "title": "Beginning Flutter Android Mobile App Development"
+    },
+    {
+        "url": "https://www.educative.io/courses/practical-security-defending-your-systems",
+        "title": "Practical Security Simple Practices for Defending Your Systems"
+    },
+    {
+        "url": "https://www.educative.io/courses/devops-toolkit-working-with-jenkins-x",
+        "title": "The DevOps Toolkit Working with Jenkins X"
+    },
+    {
+        "url": "https://www.educative.io/courses/simplifying-javascript-handy-guide",
+        "title": "Simplifying JavaScript A Handy Guide for Software Engineers"
+    },
+    {
+        "url": "https://www.educative.io/courses/competitive-programming-in-cpp-keys-to-success",
+        "title": "Competitive Programming in C++ The Keys to Success"
+    },
+    {
+        "url": "https://www.educative.io/courses/ultimate-guide-programming-in-kotlin",
+        "title": "The Ultimate Guide to Kotlin Programming"
+    },
+    {
+        "url": "https://www.educative.io/courses/predictive-data-analysis-with-python",
+        "title": "Predictive Data Analysis with Python"
+    },
+    {
+        "url": "https://www.educative.io/courses/dynamic-programming-in-python",
+        "title": "Dynamic Programming in Python Optimizing Programs for Efficiency"
+    },
+    {
+        "url": "https://www.educative.io/courses/working-with-containers-docker-docker-compose",
+        "title": "Working with Containers Docker & Docker Compose"
+    },
+    {
+        "url": "https://www.educative.io/courses/web-application-security-everyday-software-engineer",
+        "title": "Web Application Security for the Everyday Software Engineer"
+    },
+    {
+        "url": "https://www.educative.io/courses/zero-to-hero-with-progressive-web-apps",
+        "title": "Optimize your web projects with Progressive Web Apps"
+    }
+]
