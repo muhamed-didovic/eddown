@@ -1,270 +1,2592 @@
 [
-    {
-        "url": "https://www.educative.io/courses/javascript-fundamentals-before-learning-react",
-        "title": "JavaScript Fundamentals Before Learning React"
-    },
-    {
-        "url": "https://www.educative.io/courses/software-design-patterns-best-practices",
-        "title": "Software Design Patterns Best Practices for Software Developers"
-    },
-    {
-        "url": "https://www.educative.io/courses/modern-cpp-concurrency-in-practice-get-the-most-out-of-any-machine",
-        "title": "Modern C++ Concurrency Get the most out of any machine"
-    },
-    {
-        "url": "https://www.educative.io/courses/intermediate-javascript",
-        "title": "Intermediate JavaScript Building Frontend Components"
-    },
-    {
-        "url": "https://www.educative.io/courses/cpp-standard-library-including-cpp-14-and-cpp-17",
-        "title": "C++ Standard Library including C++ 14 & C++ 17"
-    },
-    {
-        "url": "https://www.educative.io/courses/the-complete-javascript-course-build-a-real-world-app-from-scratch",
-        "title": "Complete JavaScript Course Build a Real World App from Scratch"
-    },
-    {
-        "url": "https://www.educative.io/courses/introduction-to-programming-in-go",
-        "title": "An Introduction to Programming in Go"
-    },
-    {
-        "url": "https://www.educative.io/courses/cpp-17-in-detail-a-deep-dive",
-        "title": "C++17 in Detail A Deep Dive"
-    },
-    {
-        "url": "https://www.educative.io/courses/web-development-a-primer",
-        "title": "Web Development A Primer"
-    },
-    {
-        "url": "https://www.educative.io/courses/a-complete-guide-to-launching-your-website-from-local-to-live",
-        "title": "A Complete Guide to Launching Your Website From Local to Live"
-    },
-    {
-        "url": "https://www.educative.io/courses/c-sharp-for-programmers-a-practical-guide",
-        "title": "C# for Programmers A Practical Guide"
-    },
-    {
-        "url": "https://www.educative.io/courses/full-speed-python",
-        "title": "Full Speed Python"
-    },
-    {
-        "url": "https://www.educative.io/courses/practical-guide-to-graphql-from-the-client-perspective",
-        "title": "A Practical Guide to GraphQL From the Client Perspective"
-    },
-    {
-        "url": "https://www.educative.io/courses/machine-learning-for-software-engineers",
-        "title": "Machine Learning for Software Engineers"
-    },
-    {
-        "url": "https://www.educative.io/courses/from-python-to-numpy",
-        "title": "From Python to Numpy"
-    },
-    {
-        "url": "https://www.educative.io/courses/learn-object-oriented-programming-in-cpp",
-        "title": "Learn Object-Oriented Programming in C++"
-    },
-    {
-        "url": "https://www.educative.io/courses/learn-object-oriented-programming-in-java",
-        "title": "Learn Object-Oriented Programming in Java"
-    },
-    {
-        "url": "https://www.educative.io/courses/integrating-firebase-with-react",
-        "title": "Integrating Firebase with React"
-    },
-    {
-        "url": "https://www.educative.io/courses/learn-object-oriented-programming-in-python",
-        "title": "Learn Object-Oriented Programming in Python"
-    },
-    {
-        "url": "https://www.educative.io/courses/learn-object-oriented-programming-in-javascript",
-        "title": "Learn Object-Oriented Programming in JavaScript"
-    },
-    {
-        "url": "https://www.educative.io/courses/mastering-concurrency-in-go",
-        "title": "Mastering Concurrency in Go"
-    },
-    {
-        "url": "https://www.educative.io/courses/practical-guide-to-kubernetes",
-        "title": "A Practical Guide to Kubernetes"
-    },
-    {
-        "url": "https://www.educative.io/courses/advanced-react-patterns-with-hooks",
-        "title": "Advanced React Patterns With Hooks"
-    },
-    {
-        "url": "https://www.educative.io/courses/definitive-guide-to-mongodb",
-        "title": "The Definitive Guide to MongoDB"
-    },
-    {
-        "url": "https://www.educative.io/courses/docker-for-developers",
-        "title": "Docker for Developers"
-    },
-    {
-        "url": "https://www.educative.io/courses/fixing-random-techniques-in-c-sharp",
-        "title": "Fixing Random Techniques in C#"
-    },
-    {
-        "url": "https://www.educative.io/courses/learn-object-oriented-programming-in-c-sharp",
-        "title": "Learn Object-Oriented Programming in C#"
-    },
-    {
-        "url": "https://www.educative.io/courses/grokking-data-science",
-        "title": "Grokking Data Science"
-    },
-    {
-        "url": "https://www.educative.io/courses/ds-and-algorithms-in-python",
-        "title": "Data Structures and Algorithms in Python"
-    },
-    {
-        "url": "https://www.educative.io/courses/reintroducing-react-v16-beyond",
-        "title": "Reintroducing React V16 and Beyond"
-    },
-    {
-        "url": "https://www.educative.io/courses/grokking-computer-networking",
-        "title": "Grokking Computer Networking for Software Engineers"
-    },
-    {
-        "url": "https://www.educative.io/courses/web-application-software-architecture-101",
-        "title": "Web Application and Software Architecture 101"
-    },
-    {
-        "url": "https://www.educative.io/courses/database-design-fundamentals",
-        "title": "Database Design Fundamentals for Software Engineers"
-    },
-    {
-        "url": "https://www.educative.io/courses/flask-develop-web-applications-in-python",
-        "title": "Flask Develop Web Applications in Python"
-    },
-    {
-        "url": "https://www.educative.io/courses/data-science-for-non-programmers",
-        "title": "Data Science for Non-Programmers"
-    },
-    {
-        "url": "https://www.educative.io/courses/python-for-scientists-and-engineers",
-        "title": "Python for Scientists and Engineers"
-    },
-    {
-        "url": "https://www.educative.io/courses/hands-on-blockchain-hyperledger-fabric",
-        "title": "Become a Blockchain Developer"
-    },
-    {
-        "url": "https://www.educative.io/courses/fullstack-web-apps-with-firebase",
-        "title": "Full-Stack Web Applications with Firebase"
-    },
-    {
-        "url": "https://www.educative.io/courses/complete-guide-to-modern-javascript",
-        "title": "The Complete Guide to Modern JavaScript"
-    },
-    {
-        "url": "https://www.educative.io/courses/kotlin-crash-course-for-programmers",
-        "title": "Kotlin Crash Course for Programmers"
-    },
-    {
-        "url": "https://www.educative.io/courses/learn-typescript-complete-course",
-        "title": "Learn TypeScript The Complete Course for Beginners"
-    },
-    {
-        "url": "https://www.educative.io/courses/sass-for-css",
-        "title": "Sass for CSS Advanced Frontend Development"
-    },
-    {
-        "url": "https://www.educative.io/courses/python-data-analysis-and-visualization",
-        "title": "Python Data Analysis and Visualization"
-    },
-    {
-        "url": "https://www.educative.io/courses/cpp-fundamentals-for-professionals",
-        "title": "C++ Fundamentals for Professionals"
-    },
-    {
-        "url": "https://www.educative.io/courses/modern-android-app-development",
-        "title": "Modern Android App Development with Java"
-    },
-    {
-        "url": "https://www.educative.io/courses/running-serverless-applications-aws-lambda",
-        "title": "Running Serverless Applications with AWS Lambda"
-    },
-    {
-        "url": "https://www.educative.io/courses/css-theming-for-professionals",
-        "title": "CSS Theming for Professionals"
-    },
-    {
-        "url": "https://www.educative.io/courses/introduction-microservice-principles-concepts",
-        "title": "An Introduction to Microservice Principles and Concepts"
-    },
-    {
-        "url": "https://www.educative.io/courses/introductory-guide-to-sql",
-        "title": "An Introductory Guide to SQL"
-    },
-    {
-        "url": "https://www.educative.io/courses/using-typescript-with-react",
-        "title": "Using TypeScript with React"
-    },
-    {
-        "url": "https://www.educative.io/courses/road-to-react-with-hooks",
-        "title": "The Road to React The One with Hooks"
-    },
-    {
-        "url": "https://www.educative.io/courses/programming-in-d-ultimate-guide",
-        "title": "Programming in D The Ultimate Guide for Software Engineers"
-    },
-    {
-        "url": "https://www.educative.io/courses/the-way-to-go",
-        "title": "The Way to Go"
-    },
-    {
-        "url": "https://www.educative.io/courses/web-development-unraveling-html-css-js",
-        "title": "Web Development Unraveling HTML, CSS, and JavaScript"
-    },
-    {
-        "url": "https://www.educative.io/courses/good-parts-of-aws",
-        "title": "The Good Parts of AWS Cutting Through the Clutter"
-    },
-    {
-        "url": "https://www.educative.io/courses/learn-cpp-complete-course",
-        "title": "Learn C++ The Complete Course for Beginners"
-    },
-    {
-        "url": "https://www.educative.io/courses/beginning-flutter-android-mobile-app-development",
-        "title": "Beginning Flutter Android Mobile App Development"
-    },
-    {
-        "url": "https://www.educative.io/courses/practical-security-defending-your-systems",
-        "title": "Practical Security Simple Practices for Defending Your Systems"
-    },
-    {
-        "url": "https://www.educative.io/courses/devops-toolkit-working-with-jenkins-x",
-        "title": "The DevOps Toolkit Working with Jenkins X"
-    },
-    {
-        "url": "https://www.educative.io/courses/simplifying-javascript-handy-guide",
-        "title": "Simplifying JavaScript A Handy Guide for Software Engineers"
-    },
-    {
-        "url": "https://www.educative.io/courses/competitive-programming-in-cpp-keys-to-success",
-        "title": "Competitive Programming in C++ The Keys to Success"
-    },
-    {
-        "url": "https://www.educative.io/courses/ultimate-guide-programming-in-kotlin",
-        "title": "The Ultimate Guide to Kotlin Programming"
-    },
-    {
-        "url": "https://www.educative.io/courses/predictive-data-analysis-with-python",
-        "title": "Predictive Data Analysis with Python"
-    },
-    {
-        "url": "https://www.educative.io/courses/dynamic-programming-in-python",
-        "title": "Dynamic Programming in Python Optimizing Programs for Efficiency"
-    },
-    {
-        "url": "https://www.educative.io/courses/working-with-containers-docker-docker-compose",
-        "title": "Working with Containers Docker & Docker Compose"
-    },
-    {
-        "url": "https://www.educative.io/courses/web-application-security-everyday-software-engineer",
-        "title": "Web Application Security for the Everyday Software Engineer"
-    },
-    {
-        "url": "https://www.educative.io/courses/zero-to-hero-with-progressive-web-apps",
-        "title": "Optimize your web projects with Progressive Web Apps"
-    }
+  {
+    "title": "The Way to Go",
+    "value": "https://www.educative.io/courses/the-way-to-go",
+    "url": "https://www.educative.io/courses/the-way-to-go"
+  },
+  {
+    "title": "The Good Parts of AWS: Cutting Through the Clutter",
+    "value": "https://www.educative.io/courses/good-parts-of-aws",
+    "url": "https://www.educative.io/courses/good-parts-of-aws"
+  },
+  {
+    "title": "Grokking Modern System Design Interview for Engineers & Managers",
+    "value": "https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers",
+    "url": "https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers"
+  },
+  {
+    "title": "Become an Effective Software Engineering Manager",
+    "value": "https://www.educative.io/courses/become-an-effective-engineering-manager",
+    "url": "https://www.educative.io/courses/become-an-effective-engineering-manager"
+  },
+  {
+    "title": "Operating Systems: Virtualization, Concurrency & Persistence",
+    "value": "https://www.educative.io/courses/operating-systems-virtualization-concurrency-persistence",
+    "url": "https://www.educative.io/courses/operating-systems-virtualization-concurrency-persistence"
+  },
+  {
+    "title": "Python 201 - Interactively Learn Advanced Concepts in Python 3",
+    "value": "https://www.educative.io/courses/python-201-interactively-learn-advanced-concepts-in-python-3",
+    "url": "https://www.educative.io/courses/python-201-interactively-learn-advanced-concepts-in-python-3"
+  },
+  {
+    "title": "The All-in-One Guide to C++20",
+    "value": "https://www.educative.io/courses/all-in-one-guide-cpp-20",
+    "url": "https://www.educative.io/courses/all-in-one-guide-cpp-20"
+  },
+  {
+    "title": "The Beginners Guide to Docker",
+    "value": "https://www.educative.io/courses/beginners-guide-to-docker",
+    "url": "https://www.educative.io/courses/beginners-guide-to-docker"
+  },
+  {
+    "title": "Quick Start Kubernetes",
+    "value": "https://www.educative.io/courses/quick-start-kubernetes",
+    "url": "https://www.educative.io/courses/quick-start-kubernetes"
+  },
+  {
+    "title": "An Introduction to Microservice Principles and Concepts",
+    "value": "https://www.educative.io/courses/introduction-microservice-principles-concepts",
+    "url": "https://www.educative.io/courses/introduction-microservice-principles-concepts"
+  },
+  {
+    "title": "Grokking the Machine Learning Interview",
+    "value": "https://www.educative.io/courses/grokking-the-machine-learning-interview",
+    "url": "https://www.educative.io/courses/grokking-the-machine-learning-interview"
+  },
+  {
+    "title": "Lean Product Management",
+    "value": "https://www.educative.io/courses/lean-product-management",
+    "url": "https://www.educative.io/courses/lean-product-management"
+  },
+  {
+    "title": "Grokking AI for Engineering & Product Managers",
+    "value": "https://www.educative.io/courses/grokking-ai-for-engineering-product-managers",
+    "url": "https://www.educative.io/courses/grokking-ai-for-engineering-product-managers"
+  },
+  {
+    "title": "Machine Learning System Design",
+    "value": "https://www.educative.io/courses/machine-learning-system-design",
+    "url": "https://www.educative.io/courses/machine-learning-system-design"
+  },
+  {
+    "title": "Learn TypeScript: The Complete Course for Beginners",
+    "value": "https://www.educative.io/courses/learn-typescript-complete-course",
+    "url": "https://www.educative.io/courses/learn-typescript-complete-course"
+  },
+  {
+    "title": "The Road to React: The One with Hooks",
+    "value": "https://www.educative.io/courses/road-to-react-with-hooks",
+    "url": "https://www.educative.io/courses/road-to-react-with-hooks"
+  },
+  {
+    "title": "Java 8 for Experienced Developers: Lambdas, Stream API & Beyond",
+    "value": "https://www.educative.io/courses/java-8-lambdas-stream-api-beyond",
+    "url": "https://www.educative.io/courses/java-8-lambdas-stream-api-beyond"
+  },
+  {
+    "title": "Learn Git the Hard Way",
+    "value": "https://www.educative.io/courses/learn-git-hard-way",
+    "url": "https://www.educative.io/courses/learn-git-hard-way"
+  },
+  {
+    "title": "Building Scalable Data Pipelines with Kafka",
+    "value": "https://www.educative.io/courses/scalable-data-pipelines-kafka",
+    "url": "https://www.educative.io/courses/scalable-data-pipelines-kafka"
+  },
+  {
+    "title": "Machine Learning with NumPy, pandas, scikit-learn, and More",
+    "value": "https://www.educative.io/courses/machine-learning-numpy-pandas-scikit-learn",
+    "url": "https://www.educative.io/courses/machine-learning-numpy-pandas-scikit-learn"
+  },
+  {
+    "title": "Learn Node.js: The Complete Course for Beginners",
+    "value": "https://www.educative.io/courses/learn-nodejs-complete-course-for-beginners",
+    "url": "https://www.educative.io/courses/learn-nodejs-complete-course-for-beginners"
+  },
+  {
+    "title": "Distributed Systems for Practitioners",
+    "value": "https://www.educative.io/courses/distributed-systems-practitioners",
+    "url": "https://www.educative.io/courses/distributed-systems-practitioners"
+  },
+  {
+    "title": "The Ultimate Guide to Rust Programming",
+    "value": "https://www.educative.io/courses/ultimate-guide-to-rust-programming",
+    "url": "https://www.educative.io/courses/ultimate-guide-to-rust-programming"
+  },
+  {
+    "title": "Database Design Fundamentals for Software Engineers",
+    "value": "https://www.educative.io/courses/database-design-fundamentals",
+    "url": "https://www.educative.io/courses/database-design-fundamentals"
+  },
+  {
+    "title": "Integrate the Spotify API in JavaScript",
+    "value": "https://www.educative.io/courses/integrate-the-spotify-api-in-javascript",
+    "url": "https://www.educative.io/courses/integrate-the-spotify-api-in-javascript"
+  },
+  {
+    "title": "Managing Channel and Video Data with the Twitch API in JavaScript",
+    "value": "https://www.educative.io/courses/channel-and-video-data-with-the-twitch-api-in-javascript",
+    "url": "https://www.educative.io/courses/channel-and-video-data-with-the-twitch-api-in-javascript"
+  },
+  {
+    "title": "Tracking Forecasts with AccuWeather APIs in JavaScript",
+    "value": "https://www.educative.io/courses/tracking-forecasts-with-accuweather-api-in-javascript",
+    "url": "https://www.educative.io/courses/tracking-forecasts-with-accuweather-api-in-javascript"
+  },
+  {
+    "title": "Manage Contacts and Company Risk with Clearbit API in JavaScript",
+    "value": "https://www.educative.io/courses/manage-contacts-and-company-risk-with-clearbit-api-in-javascript",
+    "url": "https://www.educative.io/courses/manage-contacts-and-company-risk-with-clearbit-api-in-javascript"
+  },
+  {
+    "title": "Using OpenAI API for Natural Language Processing in JavaScript",
+    "value": "https://www.educative.io/courses/using-openai-api-for-natural-language-processing-in-javascript",
+    "url": "https://www.educative.io/courses/using-openai-api-for-natural-language-processing-in-javascript"
+  },
+  {
+    "title": "Seamless Shipping with the Shippo API in JavaScript",
+    "value": "https://www.educative.io/courses/seamless-shipping-with-the-shippo-api-in-javascript",
+    "url": "https://www.educative.io/courses/seamless-shipping-with-the-shippo-api-in-javascript"
+  },
+  {
+    "title": "Performing Event Searches with the SeatGeek API in JavaScript",
+    "value": "https://www.educative.io/courses/performing-event-searches-with-the-seatgeek-api-in-javascript",
+    "url": "https://www.educative.io/courses/performing-event-searches-with-the-seatgeek-api-in-javascript"
+  },
+  {
+    "title": "Vue - The Road to Enterprise",
+    "value": "https://www.educative.io/courses/vue-the-road-to-enterprise",
+    "url": "https://www.educative.io/courses/vue-the-road-to-enterprise"
+  },
+  {
+    "title": "Grokking the Low Level Design Interview Using OOD Principles",
+    "value": "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles",
+    "url": "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles"
+  },
+  {
+    "title": "Integrate The Movie Database API in JavaScript",
+    "value": "https://www.educative.io/courses/integrate-the-movie-database-api-in-javascript",
+    "url": "https://www.educative.io/courses/integrate-the-movie-database-api-in-javascript"
+  },
+  {
+    "title": "Calculating Sales Tax Using Avalara's AvaTax API in Python",
+    "value": "https://www.educative.io/courses/calculating-sales-tax-using-avalara-avatax-api-in-python",
+    "url": "https://www.educative.io/courses/calculating-sales-tax-using-avalara-avatax-api-in-python"
+  },
+  {
+    "title": "Exploring the Eventbrite APIs with Python",
+    "value": "https://www.educative.io/courses/exploring-the-eventbrite-api-with-python",
+    "url": "https://www.educative.io/courses/exploring-the-eventbrite-api-with-python"
+  },
+  {
+    "title": "Linear Algebra for Data Science Using Python",
+    "value": "https://www.educative.io/courses/linear-algebra-for-data-science-using-python",
+    "url": "https://www.educative.io/courses/linear-algebra-for-data-science-using-python"
+  },
+  {
+    "title": "Running Kubernetes Cluster using Azure Kubernetes Service",
+    "value": "https://www.educative.io/courses/running-kubernetes-cluster-using-azure-kubernetes-service",
+    "url": "https://www.educative.io/courses/running-kubernetes-cluster-using-azure-kubernetes-service"
+  },
+  {
+    "title": "JakartaEE Security Workshop",
+    "value": "https://www.educative.io/courses/jakarta-ee-security-workshop",
+    "url": "https://www.educative.io/courses/jakarta-ee-security-workshop"
+  },
+  {
+    "title": "Getting Started with Image Classification with PyTorch",
+    "value": "https://www.educative.io/courses/getting-started-with-image-classification-with-pytorch",
+    "url": "https://www.educative.io/courses/getting-started-with-image-classification-with-pytorch"
+  },
+  {
+    "title": "Learning to Program in Ruby: By Example",
+    "value": "https://www.educative.io/courses/learning-to-program-in-ruby",
+    "url": "https://www.educative.io/courses/learning-to-program-in-ruby"
+  },
+  {
+    "title": "Building a GraphQL Endpoint with Deno",
+    "value": "https://www.educative.io/courses/building-a-graphql-endpoint-with-deno",
+    "url": "https://www.educative.io/courses/building-a-graphql-endpoint-with-deno"
+  },
+  {
+    "title": "Using Apache Camel with Enterprise Integration Patterns",
+    "value": "https://www.educative.io/courses/using-apache-camel-with-enterprise-integration-patterns",
+    "url": "https://www.educative.io/courses/using-apache-camel-with-enterprise-integration-patterns"
+  },
+  {
+    "title": "Getting Started with GraphQL using Node.js",
+    "value": "https://www.educative.io/courses/getting-started-with-graphql-using-nodejs",
+    "url": "https://www.educative.io/courses/getting-started-with-graphql-using-nodejs"
+  },
+  {
+    "title": "Responsive and Adaptive UI in Flutter",
+    "value": "https://www.educative.io/courses/responsive-and-adaptive-ui-in-flutter",
+    "url": "https://www.educative.io/courses/responsive-and-adaptive-ui-in-flutter"
+  },
+  {
+    "title": "Cyber Security Best Practices for Developers",
+    "value": "https://www.educative.io/courses/cyber-security-best-practices-for-developers",
+    "url": "https://www.educative.io/courses/cyber-security-best-practices-for-developers"
+  },
+  {
+    "title": "How to Gatsby: The Complete Course",
+    "value": "https://www.educative.io/courses/how-to-gatsby-the-complete-course",
+    "url": "https://www.educative.io/courses/how-to-gatsby-the-complete-course"
+  },
+  {
+    "title": "More Effective Agile: A Roadmap for Software Leaders",
+    "value": "https://www.educative.io/courses/more-effective-agile-a-roadmap-for-software-leaders",
+    "url": "https://www.educative.io/courses/more-effective-agile-a-roadmap-for-software-leaders"
+  },
+  {
+    "title": "Beginner’s Guide to Terraform",
+    "value": "https://www.educative.io/courses/beginners-guide-to-terraform",
+    "url": "https://www.educative.io/courses/beginners-guide-to-terraform"
+  },
+  {
+    "title": "Object-Oriented Programming in PHP",
+    "value": "https://www.educative.io/courses/object-oriented-programming-in-php",
+    "url": "https://www.educative.io/courses/object-oriented-programming-in-php"
+  },
+  {
+    "title": "Mastering C# and .NET",
+    "value": "https://www.educative.io/courses/mastering-c-sharp-and-dotnet",
+    "url": "https://www.educative.io/courses/mastering-c-sharp-and-dotnet"
+  },
+  {
+    "title": "Securing Blazor Applications with Auth0",
+    "value": "https://www.educative.io/courses/securing-blazor-applications-with-auth0",
+    "url": "https://www.educative.io/courses/securing-blazor-applications-with-auth0"
+  },
+  {
+    "title": "The Complete Beginner’s Guide to CSS",
+    "value": "https://www.educative.io/courses/complete-beginner-guide-css",
+    "url": "https://www.educative.io/courses/complete-beginner-guide-css"
+  },
+  {
+    "title": "Authenticating Application Users with Okta in JavaScript",
+    "value": "https://www.educative.io/courses/authenticating-application-users-with-okta-in-javascript",
+    "url": "https://www.educative.io/courses/authenticating-application-users-with-okta-in-javascript"
+  },
+  {
+    "title": "Data Analytics in Python",
+    "value": "https://www.educative.io/courses/data-analytics-in-python",
+    "url": "https://www.educative.io/courses/data-analytics-in-python"
+  },
+  {
+    "title": "Mastering Mobile Application Development with Ionic",
+    "value": "https://www.educative.io/courses/mastering-mobile-application-development-with-ionic",
+    "url": "https://www.educative.io/courses/mastering-mobile-application-development-with-ionic"
+  },
+  {
+    "title": "Build Robust Applications with Test-driven Development in Django",
+    "value": "https://www.educative.io/courses/building-robust-applications-test-driven-development-django",
+    "url": "https://www.educative.io/courses/building-robust-applications-test-driven-development-django"
+  },
+  {
+    "title": "Introduction to Data Science with Python",
+    "value": "https://www.educative.io/courses/introduction-to-data-science-with-python",
+    "url": "https://www.educative.io/courses/introduction-to-data-science-with-python"
+  },
+  {
+    "title": "Applying Hugging Face Machine Learning Pipelines in Python",
+    "value": "https://www.educative.io/courses/hugging-face-machine-learning-pipelines-python",
+    "url": "https://www.educative.io/courses/hugging-face-machine-learning-pipelines-python"
+  },
+  {
+    "title": "A Beginner's Guide to the Google Maps API",
+    "value": "https://www.educative.io/courses/google-maps-api-beginners",
+    "url": "https://www.educative.io/courses/google-maps-api-beginners"
+  },
+  {
+    "title": "Integrate the GIPHY API in JavaScript",
+    "value": "https://www.educative.io/courses/integrate-giphy-api-javascript",
+    "url": "https://www.educative.io/courses/integrate-giphy-api-javascript"
+  },
+  {
+    "title": "Building Full Stack Applications with GraphQL",
+    "value": "https://www.educative.io/courses/full-stack-applications-with-graphql",
+    "url": "https://www.educative.io/courses/full-stack-applications-with-graphql"
+  },
+  {
+    "title": "Working with Regular Expressions in C#",
+    "value": "https://www.educative.io/courses/regular-expressions-c-sharp",
+    "url": "https://www.educative.io/courses/regular-expressions-c-sharp"
+  },
+  {
+    "title": "Grokking Coding Interview Patterns in JavaScript",
+    "value": "https://www.educative.io/courses/grokking-coding-interview-patterns-javascript",
+    "url": "https://www.educative.io/courses/grokking-coding-interview-patterns-javascript"
+  },
+  {
+    "title": "Grokking Coding Interview Patterns in Go",
+    "value": "https://www.educative.io/courses/grokking-coding-interview-patterns-go",
+    "url": "https://www.educative.io/courses/grokking-coding-interview-patterns-go"
+  },
+  {
+    "title": "Grokking Coding Interview Patterns in Java",
+    "value": "https://www.educative.io/courses/grokking-coding-interview-patterns-java",
+    "url": "https://www.educative.io/courses/grokking-coding-interview-patterns-java"
+  },
+  {
+    "title": "Grokking Coding Interview Patterns in C++",
+    "value": "https://www.educative.io/courses/grokking-coding-interview-patterns-cpp",
+    "url": "https://www.educative.io/courses/grokking-coding-interview-patterns-cpp"
+  },
+  {
+    "title": "Grokking Coding Interview Patterns in Python",
+    "value": "https://www.educative.io/courses/grokking-coding-interview-patterns-python",
+    "url": "https://www.educative.io/courses/grokking-coding-interview-patterns-python"
+  },
+  {
+    "title": "From Pandas to PySpark DataFrame",
+    "value": "https://www.educative.io/courses/pandas-to-pyspark-dataframe",
+    "url": "https://www.educative.io/courses/pandas-to-pyspark-dataframe"
+  },
+  {
+    "title": "Analyzing and Transforming Faces in Python",
+    "value": "https://www.educative.io/courses/analyzing-transforming-faces-python",
+    "url": "https://www.educative.io/courses/analyzing-transforming-faces-python"
+  },
+  {
+    "title": "Mastering Computer Vision in Python with OpenCV",
+    "value": "https://www.educative.io/courses/computer-vision-in-python-with-opencv",
+    "url": "https://www.educative.io/courses/computer-vision-in-python-with-opencv"
+  },
+  {
+    "title": "Building the Frontend of Python Web Applications with Streamlit",
+    "value": "https://www.educative.io/courses/building-frontend-of-python-web-applications-with-streamlit",
+    "url": "https://www.educative.io/courses/building-frontend-of-python-web-applications-with-streamlit"
+  },
+  {
+    "title": "Fundamentals of Machine Learning for Software Engineers",
+    "value": "https://www.educative.io/courses/fundamentals-of-machine-learning-for-software-engineers",
+    "url": "https://www.educative.io/courses/fundamentals-of-machine-learning-for-software-engineers"
+  },
+  {
+    "title": "Cloud Computing Fundamentals",
+    "value": "https://www.educative.io/courses/cloud-computing-fundamentals",
+    "url": "https://www.educative.io/courses/cloud-computing-fundamentals"
+  },
+  {
+    "title": "Data Structures & Algorithms In Go",
+    "value": "https://www.educative.io/courses/data-structures-and-algorithms-go",
+    "url": "https://www.educative.io/courses/data-structures-and-algorithms-go"
+  },
+  {
+    "title": "Adopting Elixir for Software Engineering Leads & Managers",
+    "value": "https://www.educative.io/courses/adopting-elixir-for-leads-and-managers",
+    "url": "https://www.educative.io/courses/adopting-elixir-for-leads-and-managers"
+  },
+  {
+    "title": "Building Database Applications in Elixir with Ecto",
+    "value": "https://www.educative.io/courses/building-database-applications-in-elixir-with-ecto",
+    "url": "https://www.educative.io/courses/building-database-applications-in-elixir-with-ecto"
+  },
+  {
+    "title": "Ensuring Elixir Application Performance with Testing and ExUnit",
+    "value": "https://www.educative.io/courses/ensuring-elixir-application-performance-with-testing-and-exunit",
+    "url": "https://www.educative.io/courses/ensuring-elixir-application-performance-with-testing-and-exunit"
+  },
+  {
+    "title": "Designing Elixir Systems with OTP",
+    "value": "https://www.educative.io/courses/designing-elixir-systems-with-otp",
+    "url": "https://www.educative.io/courses/designing-elixir-systems-with-otp"
+  },
+  {
+    "title": "Building Full-Stack Web Applications With Node.js and React",
+    "value": "https://www.educative.io/courses/building-full-stack-web-applications-with-node-js-and-react",
+    "url": "https://www.educative.io/courses/building-full-stack-web-applications-with-node-js-and-react"
+  },
+  {
+    "title": "Getting Started with Git Version Control",
+    "value": "https://www.educative.io/courses/getting-started-with-git-version-control",
+    "url": "https://www.educative.io/courses/getting-started-with-git-version-control"
+  },
+  {
+    "title": "Mastering Artificial Intelligence with Azure Cognitive Services",
+    "value": "https://www.educative.io/courses/mastering-artificial-intelligence-azure-cognitive-services",
+    "url": "https://www.educative.io/courses/mastering-artificial-intelligence-azure-cognitive-services"
+  },
+  {
+    "title": "Mastering Functional Programming with OCaml and Haskell",
+    "value": "https://www.educative.io/courses/mastering-functional-programming-ocaml-haskell",
+    "url": "https://www.educative.io/courses/mastering-functional-programming-ocaml-haskell"
+  },
+  {
+    "title": "Discover: JavaScript Frameworks Behind the Scenes",
+    "value": "https://www.educative.io/courses/discover-javascript-frameworks-behind-scenes",
+    "url": "https://www.educative.io/courses/discover-javascript-frameworks-behind-scenes"
+  },
+  {
+    "title": "Agile Web Development Using Rails 6",
+    "value": "https://www.educative.io/courses/agile-web-development-rails",
+    "url": "https://www.educative.io/courses/agile-web-development-rails"
+  },
+  {
+    "title": "Getting Started with SQL and Relational Databases",
+    "value": "https://www.educative.io/courses/getting-started-sql-relational-databases",
+    "url": "https://www.educative.io/courses/getting-started-sql-relational-databases"
+  },
+  {
+    "title": "A Complete Guide to Firebase on the Web",
+    "value": "https://www.educative.io/courses/complete-guide-firebase-web",
+    "url": "https://www.educative.io/courses/complete-guide-firebase-web"
+  },
+  {
+    "title": "Programming Fundamentals: Getting Started with C# and .NET",
+    "value": "https://www.educative.io/courses/programming-fundamentals-csharp-dotnet",
+    "url": "https://www.educative.io/courses/programming-fundamentals-csharp-dotnet"
+  },
+  {
+    "title": "Exploring and Mastering the Full Go Featureset",
+    "value": "https://www.educative.io/courses/exploring-mastering-go-featureset",
+    "url": "https://www.educative.io/courses/exploring-mastering-go-featureset"
+  },
+  {
+    "title": "Handling Financial Services with Square API in Python",
+    "value": "https://www.educative.io/courses/financial-services-square-api-python",
+    "url": "https://www.educative.io/courses/financial-services-square-api-python"
+  },
+  {
+    "title": "Build a REST API Using Python and Deploy it to Microsoft Azure",
+    "value": "https://www.educative.io/courses/rest-api-python-microsoft-azure",
+    "url": "https://www.educative.io/courses/rest-api-python-microsoft-azure"
+  },
+  {
+    "title": "Developing Fast and Secure APIs in Laravel",
+    "value": "https://www.educative.io/courses/fast-api-laravel",
+    "url": "https://www.educative.io/courses/fast-api-laravel"
+  },
+  {
+    "title": "Facebook Login and the Facebook Graph API",
+    "value": "https://www.educative.io/courses/facebook-login-graph-api",
+    "url": "https://www.educative.io/courses/facebook-login-graph-api"
+  },
+  {
+    "title": "Integration With Stripe API",
+    "value": "https://www.educative.io/courses/integration-stripe-api",
+    "url": "https://www.educative.io/courses/integration-stripe-api"
+  },
+  {
+    "title": "Getting Started with Algolia API",
+    "value": "https://www.educative.io/courses/start-algolia-api",
+    "url": "https://www.educative.io/courses/start-algolia-api"
+  },
+  {
+    "title": "Seamless Shipping with the Shippo API in Python",
+    "value": "https://www.educative.io/courses/shipping-shippo-api-python",
+    "url": "https://www.educative.io/courses/shipping-shippo-api-python"
+  },
+  {
+    "title": "Getting Started with Twilio APIs in Python",
+    "value": "https://www.educative.io/courses/twilio-api-python",
+    "url": "https://www.educative.io/courses/twilio-api-python"
+  },
+  {
+    "title": "Performing Live Event Searches With the SeatGeek API in Python",
+    "value": "https://www.educative.io/courses/live-event-seatgeek-api-python",
+    "url": "https://www.educative.io/courses/live-event-seatgeek-api-python"
+  },
+  {
+    "title": "Managing Contacts and Company Risk with Clearbit API in Python",
+    "value": "https://www.educative.io/courses/contacts-risk-clearbit-api-python",
+    "url": "https://www.educative.io/courses/contacts-risk-clearbit-api-python"
+  },
+  {
+    "title": "Authorization with OAuth 2.0 in Python",
+    "value": "https://www.educative.io/courses/authorization-oauth-2-python",
+    "url": "https://www.educative.io/courses/authorization-oauth-2-python"
+  },
+  {
+    "title": "Integrating the OpenWeatherMap APIs in Python",
+    "value": "https://www.educative.io/courses/weather-openweathermap-api-python",
+    "url": "https://www.educative.io/courses/weather-openweathermap-api-python"
+  },
+  {
+    "title": "Blogging Using the Blogger API in Python",
+    "value": "https://www.educative.io/courses/blogger-api-python",
+    "url": "https://www.educative.io/courses/blogger-api-python"
+  },
+  {
+    "title": "Surfacing Video Data with the Dailymotion Data API in Python",
+    "value": "https://www.educative.io/courses/dailymotion-data-api-python",
+    "url": "https://www.educative.io/courses/dailymotion-data-api-python"
+  },
+  {
+    "title": "Getting Started with the Vimeo API in Python",
+    "value": "https://www.educative.io/courses/vimeo-api-python",
+    "url": "https://www.educative.io/courses/vimeo-api-python"
+  },
+  {
+    "title": "Using OpenAI API for Natural Language Processing in Python",
+    "value": "https://www.educative.io/courses/open-ai-api-natural-language-processing-python",
+    "url": "https://www.educative.io/courses/open-ai-api-natural-language-processing-python"
+  },
+  {
+    "title": "Automations with the Slack API in Python",
+    "value": "https://www.educative.io/courses/automations-slack-api-python",
+    "url": "https://www.educative.io/courses/automations-slack-api-python"
+  },
+  {
+    "title": "Getting Financial Data Using YH Finance API in Python",
+    "value": "https://www.educative.io/courses/financial-data-yh-finance-api-python",
+    "url": "https://www.educative.io/courses/financial-data-yh-finance-api-python"
+  },
+  {
+    "title": "Integration With YouTube Data API in Python",
+    "value": "https://www.educative.io/courses/youtube-data-api-python",
+    "url": "https://www.educative.io/courses/youtube-data-api-python"
+  },
+  {
+    "title": "Planning the Perfect Vacation with Amadeus APIs in Python",
+    "value": "https://www.educative.io/courses/vacation-amadeus-api-python",
+    "url": "https://www.educative.io/courses/vacation-amadeus-api-python"
+  },
+  {
+    "title": "Integrating Microsoft Computer Vision API with Python",
+    "value": "https://www.educative.io/courses/microsoft-computer-vision-api-python",
+    "url": "https://www.educative.io/courses/microsoft-computer-vision-api-python"
+  },
+  {
+    "title": "Integrate The Movie Database API in Python",
+    "value": "https://www.educative.io/courses/movie-database-api-python",
+    "url": "https://www.educative.io/courses/movie-database-api-python"
+  },
+  {
+    "title": "Getting Started with the Reddit APIs in Python",
+    "value": "https://www.educative.io/courses/reddit-api-python",
+    "url": "https://www.educative.io/courses/reddit-api-python"
+  },
+  {
+    "title": "Exploring Space with NASA APIs in Python",
+    "value": "https://www.educative.io/courses/space-nasa-api-python",
+    "url": "https://www.educative.io/courses/space-nasa-api-python"
+  },
+  {
+    "title": "Creating Payment Card Programs using Marqeta API in Python",
+    "value": "https://www.educative.io/courses/payment-marqeta-api-python",
+    "url": "https://www.educative.io/courses/payment-marqeta-api-python"
+  },
+  {
+    "title": "Managing Channels and Video Data with the Twitch API in Python",
+    "value": "https://www.educative.io/courses/channels-video-twitch-api-python",
+    "url": "https://www.educative.io/courses/channels-video-twitch-api-python"
+  },
+  {
+    "title": "Surfacing Event Data with the Ticketmaster APIs in Python",
+    "value": "https://www.educative.io/courses/event-ticketmaster-api-python",
+    "url": "https://www.educative.io/courses/event-ticketmaster-api-python"
+  },
+  {
+    "title": "Performing NLP Tasks Using the Cloudmersive API in Python",
+    "value": "https://www.educative.io/courses/nlp-cloudmersive-api-python",
+    "url": "https://www.educative.io/courses/nlp-cloudmersive-api-python"
+  },
+  {
+    "title": "Sending and Receiving Money with Wise Payouts API in Python",
+    "value": "https://www.educative.io/courses/money-wise-api-python",
+    "url": "https://www.educative.io/courses/money-wise-api-python"
+  },
+  {
+    "title": "Staying Up to Date with the News API in Python",
+    "value": "https://www.educative.io/courses/news-api-python",
+    "url": "https://www.educative.io/courses/news-api-python"
+  },
+  {
+    "title": "Get Started with the Dropbox API in Python",
+    "value": "https://www.educative.io/courses/dropbox-api-python",
+    "url": "https://www.educative.io/courses/dropbox-api-python"
+  },
+  {
+    "title": "Getting Soccer Data with API-Football in Python",
+    "value": "https://www.educative.io/courses/soccer-api-football-python",
+    "url": "https://www.educative.io/courses/soccer-api-football-python"
+  },
+  {
+    "title": "Fetching Recipes with TheMealDB and TheCocktailDB APIs in Python",
+    "value": "https://www.educative.io/courses/recipes-themealdb-thecocktaildb-api-python",
+    "url": "https://www.educative.io/courses/recipes-themealdb-thecocktaildb-api-python"
+  },
+  {
+    "title": "Tracking Forecasts with the AccuWeather APIs in Python",
+    "value": "https://www.educative.io/courses/forecasts-accuweather-api-python",
+    "url": "https://www.educative.io/courses/forecasts-accuweather-api-python"
+  },
+  {
+    "title": "Managing Your Codebase with the GitHub API in Python",
+    "value": "https://www.educative.io/courses/codebase-github-api-python",
+    "url": "https://www.educative.io/courses/codebase-github-api-python"
+  },
+  {
+    "title": "Bookkeeping with FreshBooks API in Python",
+    "value": "https://www.educative.io/courses/bookkeeping-freshbooks-api-python",
+    "url": "https://www.educative.io/courses/bookkeeping-freshbooks-api-python"
+  },
+  {
+    "title": "Tracking the Cryptocurrency Market with CoinAPI using Python",
+    "value": "https://www.educative.io/courses/cryptocurrency-coin-api-python",
+    "url": "https://www.educative.io/courses/cryptocurrency-coin-api-python"
+  },
+  {
+    "title": "Integrate the Spotify API in Python",
+    "value": "https://www.educative.io/courses/spotify-api-python",
+    "url": "https://www.educative.io/courses/spotify-api-python"
+  },
+  {
+    "title": "Learn Node.js from Scratch",
+    "value": "https://www.educative.io/courses/learn-node-from-scratch-javascript",
+    "url": "https://www.educative.io/courses/learn-node-from-scratch-javascript"
+  },
+  {
+    "title": "Building Front-End Web Applications with Plain JavaScript",
+    "value": "https://www.educative.io/courses/building-front-end-web-applications-plain-javascript",
+    "url": "https://www.educative.io/courses/building-front-end-web-applications-plain-javascript"
+  },
+  {
+    "title": "Hands-On Game Development with Rust",
+    "value": "https://www.educative.io/courses/hands-on-game-development-rust",
+    "url": "https://www.educative.io/courses/hands-on-game-development-rust"
+  },
+  {
+    "title": "Concurrent Data Processing in Elixir",
+    "value": "https://www.educative.io/courses/concurrent-data-processing-elixir",
+    "url": "https://www.educative.io/courses/concurrent-data-processing-elixir"
+  },
+  {
+    "title": "Clean Architecture in Python",
+    "value": "https://www.educative.io/courses/clean-architecture-python",
+    "url": "https://www.educative.io/courses/clean-architecture-python"
+  },
+  {
+    "title": "Directives and Pipes in Angular",
+    "value": "https://www.educative.io/courses/directives-pipes-angular",
+    "url": "https://www.educative.io/courses/directives-pipes-angular"
+  },
+  {
+    "title": "Fundamentals of Testing Using Rails",
+    "value": "https://www.educative.io/courses/testing-fundamentals-rails",
+    "url": "https://www.educative.io/courses/testing-fundamentals-rails"
+  },
+  {
+    "title": "Building your own API with Rails",
+    "value": "https://www.educative.io/courses/building-api-rails",
+    "url": "https://www.educative.io/courses/building-api-rails"
+  },
+  {
+    "title": "Develop Web Apps with Streamlit",
+    "value": "https://www.educative.io/courses/develop-web-apps-streamlit",
+    "url": "https://www.educative.io/courses/develop-web-apps-streamlit"
+  },
+  {
+    "title": "Securing REST API for Web Applications and Services",
+    "value": "https://www.educative.io/courses/securing-rest-api-web-applications-services",
+    "url": "https://www.educative.io/courses/securing-rest-api-web-applications-services"
+  },
+  {
+    "title": "Master the Deno JavaScript Runtime",
+    "value": "https://www.educative.io/courses/master-deno-javascript-runtime",
+    "url": "https://www.educative.io/courses/master-deno-javascript-runtime"
+  },
+  {
+    "title": "Mastering Big Data with Apache Spark and Java",
+    "value": "https://www.educative.io/courses/mastering-big-data-apache-spark-java-api",
+    "url": "https://www.educative.io/courses/mastering-big-data-apache-spark-java-api"
+  },
+  {
+    "title": "A Programmer’s Guide to AWS S3",
+    "value": "https://www.educative.io/courses/programmers-guide-aws-s3",
+    "url": "https://www.educative.io/courses/programmers-guide-aws-s3"
+  },
+  {
+    "title": "Pandas Brain Teasers",
+    "value": "https://www.educative.io/courses/pandas-brain-teasers",
+    "url": "https://www.educative.io/courses/pandas-brain-teasers"
+  },
+  {
+    "title": "Rust Brain Teasers",
+    "value": "https://www.educative.io/courses/rust-brain-teasers",
+    "url": "https://www.educative.io/courses/rust-brain-teasers"
+  },
+  {
+    "title": "Python Brain Teasers",
+    "value": "https://www.educative.io/courses/python-brain-teasers",
+    "url": "https://www.educative.io/courses/python-brain-teasers"
+  },
+  {
+    "title": "Go Brain Teasers",
+    "value": "https://www.educative.io/courses/go-brain-teasers",
+    "url": "https://www.educative.io/courses/go-brain-teasers"
+  },
+  {
+    "title": "Launching a Personal Website Using R",
+    "value": "https://www.educative.io/courses/launching-personal-website-r",
+    "url": "https://www.educative.io/courses/launching-personal-website-r"
+  },
+  {
+    "title": "AI Project Management: Deploying and Maintaining AI for Business",
+    "value": "https://www.educative.io/courses/ai-project-management-deploying-maintaining-business",
+    "url": "https://www.educative.io/courses/ai-project-management-deploying-maintaining-business"
+  },
+  {
+    "title": "Develop an E-Commerce App Using Java, Spring Boot and Vue.js",
+    "value": "https://www.educative.io/courses/develop-e-commerce-java-spring-boot-vue-js",
+    "url": "https://www.educative.io/courses/develop-e-commerce-java-spring-boot-vue-js"
+  },
+  {
+    "title": "Master Linear Programming in Python with PuLP",
+    "value": "https://www.educative.io/courses/master-linear-programming-python-pulp",
+    "url": "https://www.educative.io/courses/master-linear-programming-python-pulp"
+  },
+  {
+    "title": "Developing Robust Web Applications with Ember.js",
+    "value": "https://www.educative.io/courses/developing-robust-emberjs-applications",
+    "url": "https://www.educative.io/courses/developing-robust-emberjs-applications"
+  },
+  {
+    "title": "Medical Image Analysis in Python",
+    "value": "https://www.educative.io/courses/medical-image-analysis-python",
+    "url": "https://www.educative.io/courses/medical-image-analysis-python"
+  },
+  {
+    "title": "The Practical Guide to Python for Scientists and Engineers",
+    "value": "https://www.educative.io/courses/practical-guide-python-scientists-engineers",
+    "url": "https://www.educative.io/courses/practical-guide-python-scientists-engineers"
+  },
+  {
+    "title": "Mastering Data Analysis with Python Pandas",
+    "value": "https://www.educative.io/courses/mastering-data-analysis-python-pandas",
+    "url": "https://www.educative.io/courses/mastering-data-analysis-python-pandas"
+  },
+  {
+    "title": "Modern CSS with Tailwind",
+    "value": "https://www.educative.io/courses/modern-css-tailwind",
+    "url": "https://www.educative.io/courses/modern-css-tailwind"
+  },
+  {
+    "title": "Building Real-Time Web Applications with Phoenix LiveView",
+    "value": "https://www.educative.io/courses/building-web-applications-phoenix-liveview",
+    "url": "https://www.educative.io/courses/building-web-applications-phoenix-liveview"
+  },
+  {
+    "title": "Learn Front-End Development and Automated Testing with Angular",
+    "value": "https://www.educative.io/courses/learn-front-end-automated-testing-angular",
+    "url": "https://www.educative.io/courses/learn-front-end-automated-testing-angular"
+  },
+  {
+    "title": "Mastering AlpineJS in a Day or Less",
+    "value": "https://www.educative.io/courses/mastering-alpinejs",
+    "url": "https://www.educative.io/courses/mastering-alpinejs"
+  },
+  {
+    "title": "SQL Antipatterns: Avoiding the Pitfalls of Database Programming",
+    "value": "https://www.educative.io/courses/sql-antipatterns-database-programming",
+    "url": "https://www.educative.io/courses/sql-antipatterns-database-programming"
+  },
+  {
+    "title": "Simple Steps to Building Modern Applications with Docker",
+    "value": "https://www.educative.io/courses/simple-building-modern-applications-docker",
+    "url": "https://www.educative.io/courses/simple-building-modern-applications-docker"
+  },
+  {
+    "title": "Getting Started with LINQ in C#",
+    "value": "https://www.educative.io/courses/getting-started-linq-c-sharp",
+    "url": "https://www.educative.io/courses/getting-started-linq-c-sharp"
+  },
+  {
+    "title": "Mastering the Art of Programming in Elixir",
+    "value": "https://www.educative.io/courses/mastering-programming-elixir",
+    "url": "https://www.educative.io/courses/mastering-programming-elixir"
+  },
+  {
+    "title": "HashiCorp Terraform Certified Associate Preparation Guide",
+    "value": "https://www.educative.io/courses/hashicorp-terraform-certified-associate-preparation-guide",
+    "url": "https://www.educative.io/courses/hashicorp-terraform-certified-associate-preparation-guide"
+  },
+  {
+    "title": "A Quick Guide for IP Subnetting",
+    "value": "https://www.educative.io/courses/quick-guide-ip-subnetting",
+    "url": "https://www.educative.io/courses/quick-guide-ip-subnetting"
+  },
+  {
+    "title": "A Guide to Learning Software Trace and Log Analysis Patterns",
+    "value": "https://www.educative.io/courses/guide-learning-software-trace-log-analysis-patterns",
+    "url": "https://www.educative.io/courses/guide-learning-software-trace-log-analysis-patterns"
+  },
+  {
+    "title": "Harnessing the Power of the Command-Line Interface",
+    "value": "https://www.educative.io/courses/harnessing-power-command-line-interface",
+    "url": "https://www.educative.io/courses/harnessing-power-command-line-interface"
+  },
+  {
+    "title": "Using Python and Transcrypt to Build a Complete Web Application",
+    "value": "https://www.educative.io/courses/using-python-transcrypt-build-web-application",
+    "url": "https://www.educative.io/courses/using-python-transcrypt-build-web-application"
+  },
+  {
+    "title": "Using the Python Transcrypt Transpiler for Front-end Coding",
+    "value": "https://www.educative.io/courses/using-python-transcrypt-transpiler-front-end-coding",
+    "url": "https://www.educative.io/courses/using-python-transcrypt-transpiler-front-end-coding"
+  },
+  {
+    "title": "Simplifying Machine Learning with PyCaret in Python",
+    "value": "https://www.educative.io/courses/simplify-machine-learning-pycaret-python",
+    "url": "https://www.educative.io/courses/simplify-machine-learning-pycaret-python"
+  },
+  {
+    "title": "Scalable Web Development in Rust",
+    "value": "https://www.educative.io/courses/scalable-web-development-rust",
+    "url": "https://www.educative.io/courses/scalable-web-development-rust"
+  },
+  {
+    "title": "Reactive Programming with RxJS",
+    "value": "https://www.educative.io/courses/reactive-programming-rxjs",
+    "url": "https://www.educative.io/courses/reactive-programming-rxjs"
+  },
+  {
+    "title": "Hands-On Quantum Machine Learning with Python",
+    "value": "https://www.educative.io/courses/hands-on-quantum-machine-learning-python",
+    "url": "https://www.educative.io/courses/hands-on-quantum-machine-learning-python"
+  },
+  {
+    "title": "Using Jasmine to Unit Test Your JavaScript App",
+    "value": "https://www.educative.io/courses/using-jasmine-unit-test-javascript-app",
+    "url": "https://www.educative.io/courses/using-jasmine-unit-test-javascript-app"
+  },
+  {
+    "title": "Pythonic Programming Tips for Software Engineers",
+    "value": "https://www.educative.io/courses/pythonic-programming-tips-software-engineers",
+    "url": "https://www.educative.io/courses/pythonic-programming-tips-software-engineers"
+  },
+  {
+    "title": "Distributed Systems: Building Software for the Real World",
+    "value": "https://www.educative.io/courses/distributed-systems-real-world",
+    "url": "https://www.educative.io/courses/distributed-systems-real-world"
+  },
+  {
+    "title": "Functional Web Development with Elixir, OTP and Phoenix",
+    "value": "https://www.educative.io/courses/functional-web-development-elixir-otp-phoenix",
+    "url": "https://www.educative.io/courses/functional-web-development-elixir-otp-phoenix"
+  },
+  {
+    "title": "Building Scalable Applications with Thymeleaf and Spring Boot",
+    "value": "https://www.educative.io/courses/building-scalable-applications-thymeleaf-springboot",
+    "url": "https://www.educative.io/courses/building-scalable-applications-thymeleaf-springboot"
+  },
+  {
+    "title": "Building Real-time Applications with Phoenix & Elixir",
+    "value": "https://www.educative.io/courses/building-real-time-applications-phoenix-elixir",
+    "url": "https://www.educative.io/courses/building-real-time-applications-phoenix-elixir"
+  },
+  {
+    "title": "Hands-on PHP & MySQL: Build a CRUD Application",
+    "value": "https://www.educative.io/courses/hands-on-php-mysql-crud-application",
+    "url": "https://www.educative.io/courses/hands-on-php-mysql-crud-application"
+  },
+  {
+    "title": "Learn Graph Algorithms in C++",
+    "value": "https://www.educative.io/courses/graph-algorithms-coding-interviews-c-plus-plus",
+    "url": "https://www.educative.io/courses/graph-algorithms-coding-interviews-c-plus-plus"
+  },
+  {
+    "title": "Quick Start Full Stack Web Development",
+    "value": "https://www.educative.io/courses/quick-start-full-stack-web-development",
+    "url": "https://www.educative.io/courses/quick-start-full-stack-web-development"
+  },
+  {
+    "title": "Decode the Coding Interview in C++: Real-World Examples",
+    "value": "https://www.educative.io/courses/decode-coding-interview-cpp",
+    "url": "https://www.educative.io/courses/decode-coding-interview-cpp"
+  },
+  {
+    "title": "Decode the Coding Interview in Java: Real-World Examples",
+    "value": "https://www.educative.io/courses/decode-coding-interview-java",
+    "url": "https://www.educative.io/courses/decode-coding-interview-java"
+  },
+  {
+    "title": "Decode the Coding Interview in JavaScript: Real-World Examples",
+    "value": "https://www.educative.io/courses/decode-coding-interview-js",
+    "url": "https://www.educative.io/courses/decode-coding-interview-js"
+  },
+  {
+    "title": "Decode the Coding Interview in Python: Real-World Examples",
+    "value": "https://www.educative.io/courses/decode-coding-interview-python",
+    "url": "https://www.educative.io/courses/decode-coding-interview-python"
+  },
+  {
+    "title": "Decode the Coding Interview in C#: Real-World Examples",
+    "value": "https://www.educative.io/courses/decode-the-coding-interview-csharp",
+    "url": "https://www.educative.io/courses/decode-the-coding-interview-csharp"
+  },
+  {
+    "title": "Decode the Coding Interview in Go: Real-World Examples",
+    "value": "https://www.educative.io/courses/decode-the-coding-interview-go",
+    "url": "https://www.educative.io/courses/decode-the-coding-interview-go"
+  },
+  {
+    "title": "Decode the Coding Interview in Scala: Real-World Examples",
+    "value": "https://www.educative.io/courses/decode-the-coding-interview-scala",
+    "url": "https://www.educative.io/courses/decode-the-coding-interview-scala"
+  },
+  {
+    "title": "Decode the Coding Interview in Kotlin: Real-World Examples",
+    "value": "https://www.educative.io/courses/decode-the-coding-interview-kotlin",
+    "url": "https://www.educative.io/courses/decode-the-coding-interview-kotlin"
+  },
+  {
+    "title": "Decode the Coding Interview in Elixir: Real-World Examples",
+    "value": "https://www.educative.io/courses/decode-the-coding-interview-elixir",
+    "url": "https://www.educative.io/courses/decode-the-coding-interview-elixir"
+  },
+  {
+    "title": "Decode the Coding Interview in Ruby: Real-World Examples",
+    "value": "https://www.educative.io/courses/decode-the-coding-interview-ruby",
+    "url": "https://www.educative.io/courses/decode-the-coding-interview-ruby"
+  },
+  {
+    "title": "Decode the Coding Interview in Swift: Real-World Examples",
+    "value": "https://www.educative.io/courses/decode-the-coding-interview-swift",
+    "url": "https://www.educative.io/courses/decode-the-coding-interview-swift"
+  },
+  {
+    "title": "Decode the Coding Interview in Rust: Real-World Examples",
+    "value": "https://www.educative.io/courses/decode-the-coding-interview-rust",
+    "url": "https://www.educative.io/courses/decode-the-coding-interview-rust"
+  },
+  {
+    "title": "Testing React Apps with Jest and React Testing Library",
+    "value": "https://www.educative.io/courses/testing-react-apps-jest-react-testing-library",
+    "url": "https://www.educative.io/courses/testing-react-apps-jest-react-testing-library"
+  },
+  {
+    "title": "MongoDB: The Complete Guide",
+    "value": "https://www.educative.io/courses/mongodb-complete-guide",
+    "url": "https://www.educative.io/courses/mongodb-complete-guide"
+  },
+  {
+    "title": "Introduction to JAX and Deep Learning",
+    "value": "https://www.educative.io/courses/intro-jax-deep-learning",
+    "url": "https://www.educative.io/courses/intro-jax-deep-learning"
+  },
+  {
+    "title": "Alexa Skills 101: Building voice apps for Alexa",
+    "value": "https://www.educative.io/courses/building-voice-apps-alexa",
+    "url": "https://www.educative.io/courses/building-voice-apps-alexa"
+  },
+  {
+    "title": "C++ Concepts: Improve Type Safety with C++ 20",
+    "value": "https://www.educative.io/courses/cplusplus-concepts-improve-type-safety-cplusplus20",
+    "url": "https://www.educative.io/courses/cplusplus-concepts-improve-type-safety-cplusplus20"
+  },
+  {
+    "title": "Rails for Front-end Development: Essential Tools",
+    "value": "https://www.educative.io/courses/rails-for-front-end-development-essential-tools",
+    "url": "https://www.educative.io/courses/rails-for-front-end-development-essential-tools"
+  },
+  {
+    "title": "Craft GraphQL APIs in Elixir with Absinthe",
+    "value": "https://www.educative.io/courses/craft-graphql-api-elixir-absinthe",
+    "url": "https://www.educative.io/courses/craft-graphql-api-elixir-absinthe"
+  },
+  {
+    "title": "Reactive Programming with RxJava",
+    "value": "https://www.educative.io/courses/reactive-programming-rxjava",
+    "url": "https://www.educative.io/courses/reactive-programming-rxjava"
+  },
+  {
+    "title": "Property-Based Testing with PropEr in Erlang",
+    "value": "https://www.educative.io/courses/property-based-testing-proper-erlang",
+    "url": "https://www.educative.io/courses/property-based-testing-proper-erlang"
+  },
+  {
+    "title": "Property-Based Testing with PropEr in Elixir",
+    "value": "https://www.educative.io/courses/property-based-testing-proper-elixir",
+    "url": "https://www.educative.io/courses/property-based-testing-proper-elixir"
+  },
+  {
+    "title": "Unit Testing Java Applications using JUnit 5",
+    "value": "https://www.educative.io/courses/unit-testing-java-junit5",
+    "url": "https://www.educative.io/courses/unit-testing-java-junit5"
+  },
+  {
+    "title": "Genetic Algorithms in Elixir",
+    "value": "https://www.educative.io/courses/genetic-algorithms-elixir",
+    "url": "https://www.educative.io/courses/genetic-algorithms-elixir"
+  },
+  {
+    "title": "The Detailed Workings of AWS S3",
+    "value": "https://www.educative.io/courses/detailed-workings-aws-s3",
+    "url": "https://www.educative.io/courses/detailed-workings-aws-s3"
+  },
+  {
+    "title": "PDF Management in Python",
+    "value": "https://www.educative.io/courses/pdf-management-python",
+    "url": "https://www.educative.io/courses/pdf-management-python"
+  },
+  {
+    "title": "Become an Inspirational Manager: Bring Out the Best In Others",
+    "value": "https://www.educative.io/courses/become-great-engineering-manger-bring-out-best-others",
+    "url": "https://www.educative.io/courses/become-great-engineering-manger-bring-out-best-others"
+  },
+  {
+    "title": "The Complete Guide to Bash Programming",
+    "value": "https://www.educative.io/courses/guide-to-bash-programming",
+    "url": "https://www.educative.io/courses/guide-to-bash-programming"
+  },
+  {
+    "title": "New Programmer's Survival Manual",
+    "value": "https://www.educative.io/courses/new-programmer-survival-manual",
+    "url": "https://www.educative.io/courses/new-programmer-survival-manual"
+  },
+  {
+    "title": "An Introduction to Spark",
+    "value": "https://www.educative.io/courses/introduction-to-spark",
+    "url": "https://www.educative.io/courses/introduction-to-spark"
+  },
+  {
+    "title": "The No Nonsense Introduction To Big Data, Hadoop and Streaming",
+    "value": "https://www.educative.io/courses/intro-to-big-data-hadoop-streaming",
+    "url": "https://www.educative.io/courses/intro-to-big-data-hadoop-streaming"
+  },
+  {
+    "title": "React Deep Dive: From Beginner to Advanced",
+    "value": "https://www.educative.io/courses/react-beginner-to-advanced",
+    "url": "https://www.educative.io/courses/react-beginner-to-advanced"
+  },
+  {
+    "title": "Designing Games in Java with Graphics & Event-Driven Programming",
+    "value": "https://www.educative.io/courses/java-games-diy",
+    "url": "https://www.educative.io/courses/java-games-diy"
+  },
+  {
+    "title": "Ace the FAANG Program Manager Interview for Beginners",
+    "value": "https://www.educative.io/courses/ace-faang-program-manager-interview-beginner",
+    "url": "https://www.educative.io/courses/ace-faang-program-manager-interview-beginner"
+  },
+  {
+    "title": "The Handbook for Ruby Developers",
+    "value": "https://www.educative.io/courses/handbook-ruby-developers",
+    "url": "https://www.educative.io/courses/handbook-ruby-developers"
+  },
+  {
+    "title": "Pragmatic Unit Testing in Java 8 with JUnit",
+    "value": "https://www.educative.io/courses/unit-testing-java8-junit",
+    "url": "https://www.educative.io/courses/unit-testing-java8-junit"
+  },
+  {
+    "title": "Learn Functional Programming with Elixir",
+    "value": "https://www.educative.io/courses/functional-programming-elixir",
+    "url": "https://www.educative.io/courses/functional-programming-elixir"
+  },
+  {
+    "title": "Secure Coding Practices in C++: A Deep Dive into const",
+    "value": "https://www.educative.io/courses/secure-coding-practices-cpp-const",
+    "url": "https://www.educative.io/courses/secure-coding-practices-cpp-const"
+  },
+  {
+    "title": "Metaprogramming in Elixir",
+    "value": "https://www.educative.io/courses/metaprogramming-elixir",
+    "url": "https://www.educative.io/courses/metaprogramming-elixir"
+  },
+  {
+    "title": "Kubernetes in Practice",
+    "value": "https://www.educative.io/courses/kubernetes-in-practice",
+    "url": "https://www.educative.io/courses/kubernetes-in-practice"
+  },
+  {
+    "title": "Django Takeoff: Developing Modern Applications",
+    "value": "https://www.educative.io/courses/django-takeoff-develop-modern-apps",
+    "url": "https://www.educative.io/courses/django-takeoff-develop-modern-apps"
+  },
+  {
+    "title": "Domain Driven Design Made Easy",
+    "value": "https://www.educative.io/courses/domain-driven-design",
+    "url": "https://www.educative.io/courses/domain-driven-design"
+  },
+  {
+    "title": "Burp Suite Extension Development",
+    "value": "https://www.educative.io/courses/burp-suite-extension-development",
+    "url": "https://www.educative.io/courses/burp-suite-extension-development"
+  },
+  {
+    "title": "The All-in-One Guide to Java Programming",
+    "value": "https://www.educative.io/courses/guide-to-java-programming",
+    "url": "https://www.educative.io/courses/guide-to-java-programming"
+  },
+  {
+    "title": "Create Desktop Apps Using Python & Tkinter",
+    "value": "https://www.educative.io/courses/desktop-apps-python-tkinter",
+    "url": "https://www.educative.io/courses/desktop-apps-python-tkinter"
+  },
+  {
+    "title": "Master State Management in Flutter",
+    "value": "https://www.educative.io/courses/master-state-management-flutter",
+    "url": "https://www.educative.io/courses/master-state-management-flutter"
+  },
+  {
+    "title": "Build a Successful Developer Brand",
+    "value": "https://www.educative.io/courses/build-a-developer-brand",
+    "url": "https://www.educative.io/courses/build-a-developer-brand"
+  },
+  {
+    "title": "ASP.NET Core MVC",
+    "value": "https://www.educative.io/courses/asp-net-core-mvc",
+    "url": "https://www.educative.io/courses/asp-net-core-mvc"
+  },
+  {
+    "title": "Automate Your Network",
+    "value": "https://www.educative.io/courses/automate-your-network",
+    "url": "https://www.educative.io/courses/automate-your-network"
+  },
+  {
+    "title": "Mastering Regular Expressions in Java",
+    "value": "https://www.educative.io/courses/master-regular-expression",
+    "url": "https://www.educative.io/courses/master-regular-expression"
+  },
+  {
+    "title": "Learning Python through PowerShell Concepts",
+    "value": "https://www.educative.io/courses/python-powershell-concepts",
+    "url": "https://www.educative.io/courses/python-powershell-concepts"
+  },
+  {
+    "title": "Binary Search for Coding Interviews",
+    "value": "https://www.educative.io/courses/binary-search-coding-interview",
+    "url": "https://www.educative.io/courses/binary-search-coding-interview"
+  },
+  {
+    "title": "Computer Graphics in Python and Pycairo",
+    "value": "https://www.educative.io/courses/computer-graphics-python-pycairo",
+    "url": "https://www.educative.io/courses/computer-graphics-python-pycairo"
+  },
+  {
+    "title": "Frontend End-to-End Testing with Cypress",
+    "value": "https://www.educative.io/courses/frontend-testing-cypress",
+    "url": "https://www.educative.io/courses/frontend-testing-cypress"
+  },
+  {
+    "title": "Regular Expressions for Programmers",
+    "value": "https://www.educative.io/courses/regular-expressions-programmers",
+    "url": "https://www.educative.io/courses/regular-expressions-programmers"
+  },
+  {
+    "title": "Building Enterprise Applications with Spring Boot",
+    "value": "https://www.educative.io/courses/enterprise-applications-spring-boot",
+    "url": "https://www.educative.io/courses/enterprise-applications-spring-boot"
+  },
+  {
+    "title": "DynamoDB Deep Dive: NoSQL for Software Engineers",
+    "value": "https://www.educative.io/courses/aws-dynamodb-nosql",
+    "url": "https://www.educative.io/courses/aws-dynamodb-nosql"
+  },
+  {
+    "title": "Web Application Security: Understanding HTTP Security Headers",
+    "value": "https://www.educative.io/courses/web-application-security-http-headers",
+    "url": "https://www.educative.io/courses/web-application-security-http-headers"
+  },
+  {
+    "title": "AWS Security Fundamentals: A Practical Guide to AWS IAM",
+    "value": "https://www.educative.io/courses/aws-security-iam",
+    "url": "https://www.educative.io/courses/aws-security-iam"
+  },
+  {
+    "title": "A Practical Guide to Machine Learning with Python",
+    "value": "https://www.educative.io/courses/guide-to-machine-learning-python",
+    "url": "https://www.educative.io/courses/guide-to-machine-learning-python"
+  },
+  {
+    "title": "Deep Learning with PyTorch Step-by-Step: Part I - Fundamentals",
+    "value": "https://www.educative.io/courses/deep-learning-pytorch-fundamentals",
+    "url": "https://www.educative.io/courses/deep-learning-pytorch-fundamentals"
+  },
+  {
+    "title": "Basic Pytorch Tensor Manipulation for Machine Learning",
+    "value": "https://www.educative.io/courses/pytorch-tensor-manipulation",
+    "url": "https://www.educative.io/courses/pytorch-tensor-manipulation"
+  },
+  {
+    "title": "Data Analytics Interview Prep Using Pandas",
+    "value": "https://www.educative.io/courses/data-analytics-interview-prep-pandas",
+    "url": "https://www.educative.io/courses/data-analytics-interview-prep-pandas"
+  },
+  {
+    "title": "Automating With Node.js",
+    "value": "https://www.educative.io/courses/automating-with-node-js",
+    "url": "https://www.educative.io/courses/automating-with-node-js"
+  },
+  {
+    "title": "An Introductory Guide to Data Science and Machine Learning",
+    "value": "https://www.educative.io/courses/intro-data-science-machine-learning",
+    "url": "https://www.educative.io/courses/intro-data-science-machine-learning"
+  },
+  {
+    "title": "Software Design Patterns in C",
+    "value": "https://www.educative.io/courses/software-design-patterns-c",
+    "url": "https://www.educative.io/courses/software-design-patterns-c"
+  },
+  {
+    "title": "The Fundamentals of Quantum Computing",
+    "value": "https://www.educative.io/courses/fundamentals-quantum-computing",
+    "url": "https://www.educative.io/courses/fundamentals-quantum-computing"
+  },
+  {
+    "title": "Write Professional Command-line Programs in Go",
+    "value": "https://www.educative.io/courses/prof-command-line-programs-go",
+    "url": "https://www.educative.io/courses/prof-command-line-programs-go"
+  },
+  {
+    "title": "The Django Admin for Web Developers",
+    "value": "https://www.educative.io/courses/django-admin-web-developers",
+    "url": "https://www.educative.io/courses/django-admin-web-developers"
+  },
+  {
+    "title": "Effective Software Development for Enterprise Applications",
+    "value": "https://www.educative.io/courses/effective-software-development-enterprise-applications",
+    "url": "https://www.educative.io/courses/effective-software-development-enterprise-applications"
+  },
+  {
+    "title": "Swift Programming for Mobile App Development",
+    "value": "https://www.educative.io/courses/swift-programming-mobile-app",
+    "url": "https://www.educative.io/courses/swift-programming-mobile-app"
+  },
+  {
+    "title": "Hexagonal Software Architecture for Web Applications",
+    "value": "https://www.educative.io/courses/hexagonal-architecture-web-apps",
+    "url": "https://www.educative.io/courses/hexagonal-architecture-web-apps"
+  },
+  {
+    "title": "Terraform: From Beginner to Master with Examples in AWS",
+    "value": "https://www.educative.io/courses/terraform-beginner-master-aws",
+    "url": "https://www.educative.io/courses/terraform-beginner-master-aws"
+  },
+  {
+    "title": "PHP for the Web: Learn PHP without a Framework",
+    "value": "https://www.educative.io/courses/php-web-learn-php-without-framework",
+    "url": "https://www.educative.io/courses/php-web-learn-php-without-framework"
+  },
+  {
+    "title": "The Ultimate Guide to Redux",
+    "value": "https://www.educative.io/courses/ultimate-guide-to-redux",
+    "url": "https://www.educative.io/courses/ultimate-guide-to-redux"
+  },
+  {
+    "title": "Front-end Testing 101: Integration and End-to-end Testing",
+    "value": "https://www.educative.io/courses/front-end-testing-integration",
+    "url": "https://www.educative.io/courses/front-end-testing-integration"
+  },
+  {
+    "title": "Intermediate Redux with Redux Toolkit",
+    "value": "https://www.educative.io/courses/intermediate-redux-toolkit",
+    "url": "https://www.educative.io/courses/intermediate-redux-toolkit"
+  },
+  {
+    "title": "Complete Guide to Testing React Apps with Jest and Selenium",
+    "value": "https://www.educative.io/courses/complete-testing-react-apps-jest-selenium",
+    "url": "https://www.educative.io/courses/complete-testing-react-apps-jest-selenium"
+  },
+  {
+    "title": "AWS Certified Solutions Architect Associate Exam Prep",
+    "value": "https://www.educative.io/courses/aws-certified-solutions-architect-assoc-exam-prep",
+    "url": "https://www.educative.io/courses/aws-certified-solutions-architect-assoc-exam-prep"
+  },
+  {
+    "title": "Cloud Native Development with Tailwind, Google Cloud and Firebase",
+    "value": "https://www.educative.io/courses/cloud-native-development",
+    "url": "https://www.educative.io/courses/cloud-native-development"
+  },
+  {
+    "title": "Python 3: From Beginner to Advanced",
+    "value": "https://www.educative.io/courses/python-3-beginner-advanced",
+    "url": "https://www.educative.io/courses/python-3-beginner-advanced"
+  },
+  {
+    "title": "Run Selenium Java Tests In Azure DevOps",
+    "value": "https://www.educative.io/courses/selenium-java-azure-devops",
+    "url": "https://www.educative.io/courses/selenium-java-azure-devops"
+  },
+  {
+    "title": "Kanban Fundamentals: Boosting Developer Productivity",
+    "value": "https://www.educative.io/courses/kanban-fundamentals",
+    "url": "https://www.educative.io/courses/kanban-fundamentals"
+  },
+  {
+    "title": "Building a Medium Clone With Vue 3",
+    "value": "https://www.educative.io/courses/medium-clone-vue3",
+    "url": "https://www.educative.io/courses/medium-clone-vue3"
+  },
+  {
+    "title": "Azure Data Studio Masterclass",
+    "value": "https://www.educative.io/courses/azure-data-studio-masterclass",
+    "url": "https://www.educative.io/courses/azure-data-studio-masterclass"
+  },
+  {
+    "title": "Java Masterclass for Software Developers",
+    "value": "https://www.educative.io/courses/java-masterclass-developers",
+    "url": "https://www.educative.io/courses/java-masterclass-developers"
+  },
+  {
+    "title": "Getting Started with Braintree API",
+    "value": "https://www.educative.io/courses/getting-started-braintree-api",
+    "url": "https://www.educative.io/courses/getting-started-braintree-api"
+  },
+  {
+    "title": "Integrate Auth0 with Java Servlet Application",
+    "value": "https://www.educative.io/courses/integrate-auth0-java-servlet",
+    "url": "https://www.educative.io/courses/integrate-auth0-java-servlet"
+  },
+  {
+    "title": "Learn Perl from Scratch",
+    "value": "https://www.educative.io/courses/learn-perl-from-scratch",
+    "url": "https://www.educative.io/courses/learn-perl-from-scratch"
+  },
+  {
+    "title": "Simple Anomaly Detection using SQL",
+    "value": "https://www.educative.io/courses/simple-anomaly-detection-sql",
+    "url": "https://www.educative.io/courses/simple-anomaly-detection-sql"
+  },
+  {
+    "title": "Designing Web Layouts with CSS and Flexbox",
+    "value": "https://www.educative.io/courses/web-layouts-css-and-flexbox",
+    "url": "https://www.educative.io/courses/web-layouts-css-and-flexbox"
+  },
+  {
+    "title": "Introduction to Deep Learning & Neural Networks",
+    "value": "https://www.educative.io/courses/intro-deep-learning",
+    "url": "https://www.educative.io/courses/intro-deep-learning"
+  },
+  {
+    "title": "C Programming for Experienced Engineers",
+    "value": "https://www.educative.io/courses/c-programming-experienced-devs",
+    "url": "https://www.educative.io/courses/c-programming-experienced-devs"
+  },
+  {
+    "title": "C++ Programming for Experienced Engineers",
+    "value": "https://www.educative.io/courses/cpp-programming-experienced-devs",
+    "url": "https://www.educative.io/courses/cpp-programming-experienced-devs"
+  },
+  {
+    "title": "An Intro to Python 3",
+    "value": "https://www.educative.io/courses/intro-python-3",
+    "url": "https://www.educative.io/courses/intro-python-3"
+  },
+  {
+    "title": "The Complete Guide to DevOps in Azure",
+    "value": "https://www.educative.io/courses/complete-guide-devops-azure",
+    "url": "https://www.educative.io/courses/complete-guide-devops-azure"
+  },
+  {
+    "title": "Docker Deep Dive: Advanced Techniques",
+    "value": "https://www.educative.io/courses/advanced-docker-techniques",
+    "url": "https://www.educative.io/courses/advanced-docker-techniques"
+  },
+  {
+    "title": "Docker for Web Developers",
+    "value": "https://www.educative.io/courses/docker-for-web-developers",
+    "url": "https://www.educative.io/courses/docker-for-web-developers"
+  },
+  {
+    "title": "Build Reactive Websites with RxJS: Master Observables and Wrangle",
+    "value": "https://www.educative.io/courses/reactive-websites-rxjs",
+    "url": "https://www.educative.io/courses/reactive-websites-rxjs"
+  },
+  {
+    "title": "Test-driven Development with React",
+    "value": "https://www.educative.io/courses/test-driven-react-development",
+    "url": "https://www.educative.io/courses/test-driven-react-development"
+  },
+  {
+    "title": "D3 Tips and Tricks: Interactive Data Visualization",
+    "value": "https://www.educative.io/courses/d3-tips-data-visualization",
+    "url": "https://www.educative.io/courses/d3-tips-data-visualization"
+  },
+  {
+    "title": "Selenium WebDriver Recipes in Node.js",
+    "value": "https://www.educative.io/courses/selenium-webdriver-nodejs",
+    "url": "https://www.educative.io/courses/selenium-webdriver-nodejs"
+  },
+  {
+    "title": "Master D3.js for Data Visualization",
+    "value": "https://www.educative.io/courses/master-d3-data-visualization",
+    "url": "https://www.educative.io/courses/master-d3-data-visualization"
+  },
+  {
+    "title": "Cracking the Google Associate Cloud Engineer Certification",
+    "value": "https://www.educative.io/courses/google-cloud-assoc-certification",
+    "url": "https://www.educative.io/courses/google-cloud-assoc-certification"
+  },
+  {
+    "title": "Competitive Programming - Crack Your Coding Interview, C++",
+    "value": "https://www.educative.io/courses/competitive-programming-intvw",
+    "url": "https://www.educative.io/courses/competitive-programming-intvw"
+  },
+  {
+    "title": "Python for Mechanical and Aerospace Engineering",
+    "value": "https://www.educative.io/courses/python-mech-aero-engineering",
+    "url": "https://www.educative.io/courses/python-mech-aero-engineering"
+  },
+  {
+    "title": "Grokking the Advanced System Design Interview",
+    "value": "https://www.educative.io/courses/grokking-adv-system-design-intvw",
+    "url": "https://www.educative.io/courses/grokking-adv-system-design-intvw"
+  },
+  {
+    "title": "Mobile Test Automation with Appium",
+    "value": "https://www.educative.io/courses/mobile-test-auto-appium-101",
+    "url": "https://www.educative.io/courses/mobile-test-auto-appium-101"
+  },
+  {
+    "title": "Build a Custom Membership Website with Velo by Wix",
+    "value": "https://www.educative.io/courses/build-membership-with-velo-wix",
+    "url": "https://www.educative.io/courses/build-membership-with-velo-wix"
+  },
+  {
+    "title": "Initializing Data Members: From C++11 till C++20",
+    "value": "https://www.educative.io/courses/initialize-data-members-cpp",
+    "url": "https://www.educative.io/courses/initialize-data-members-cpp"
+  },
+  {
+    "title": "Pure Functional HTTP APIs in Scala",
+    "value": "https://www.educative.io/courses/pure-functional-http-apis-scala",
+    "url": "https://www.educative.io/courses/pure-functional-http-apis-scala"
+  },
+  {
+    "title": "Game Development with JavaScript: Creating Tetris",
+    "value": "https://www.educative.io/courses/game-development-js-tetris",
+    "url": "https://www.educative.io/courses/game-development-js-tetris"
+  },
+  {
+    "title": "Modern CSS Layout: Decking Zombies with Style",
+    "value": "https://www.educative.io/courses/modern-css-layout-zombies",
+    "url": "https://www.educative.io/courses/modern-css-layout-zombies"
+  },
+  {
+    "title": "Developing Mobile Apps with Ionic and Angular",
+    "value": "https://www.educative.io/courses/mobile-apps-ionic-angular",
+    "url": "https://www.educative.io/courses/mobile-apps-ionic-angular"
+  },
+  {
+    "title": "The Complete Guide to Spring 5 and Spring Boot 2",
+    "value": "https://www.educative.io/courses/guide-spring-5-spring-boot-2",
+    "url": "https://www.educative.io/courses/guide-spring-5-spring-boot-2"
+  },
+  {
+    "title": "The Coding Career Handbook",
+    "value": "https://www.educative.io/courses/coding-career-handbook",
+    "url": "https://www.educative.io/courses/coding-career-handbook"
+  },
+  {
+    "title": "Grokking Comp Negotiation in Tech",
+    "value": "https://www.educative.io/courses/grokking-comp-negotiation",
+    "url": "https://www.educative.io/courses/grokking-comp-negotiation"
+  },
+  {
+    "title": "Collections in Java",
+    "value": "https://www.educative.io/courses/collections-in-java",
+    "url": "https://www.educative.io/courses/collections-in-java"
+  },
+  {
+    "title": "An Introduction to Apache Airflow",
+    "value": "https://www.educative.io/courses/introduction-to-apache-airflow",
+    "url": "https://www.educative.io/courses/introduction-to-apache-airflow"
+  },
+  {
+    "title": "Valtio: Lightweight Proxy-Based State Management for React",
+    "value": "https://www.educative.io/courses/valtio-state-management-react",
+    "url": "https://www.educative.io/courses/valtio-state-management-react"
+  },
+  {
+    "title": "Ansible: Zero to Production Ready",
+    "value": "https://www.educative.io/courses/ansible-zero-to-production-ready",
+    "url": "https://www.educative.io/courses/ansible-zero-to-production-ready"
+  },
+  {
+    "title": "Docker for Rails Developers",
+    "value": "https://www.educative.io/courses/docker-for-rails-developers",
+    "url": "https://www.educative.io/courses/docker-for-rails-developers"
+  },
+  {
+    "title": "System Design Interview: DoorDash",
+    "value": "https://www.educative.io/courses/system-design-interview-doordash",
+    "url": "https://www.educative.io/courses/system-design-interview-doordash"
+  },
+  {
+    "title": "Hacking the TPM Interview",
+    "value": "https://www.educative.io/courses/hacking-the-tpm-interview",
+    "url": "https://www.educative.io/courses/hacking-the-tpm-interview"
+  },
+  {
+    "title": "Next.js - The ultimate way to build React apps",
+    "value": "https://www.educative.io/courses/next-js-build-react-apps",
+    "url": "https://www.educative.io/courses/next-js-build-react-apps"
+  },
+  {
+    "title": "Rediscovering JavaScript: ES6, ES7 & ES8",
+    "value": "https://www.educative.io/courses/rediscovering-javascript",
+    "url": "https://www.educative.io/courses/rediscovering-javascript"
+  },
+  {
+    "title": "Building Event Driven and Microservices Architecture in Azure",
+    "value": "https://www.educative.io/courses/event-driven-microservices-azure",
+    "url": "https://www.educative.io/courses/event-driven-microservices-azure"
+  },
+  {
+    "title": "The Angular Masterclass",
+    "value": "https://www.educative.io/courses/getting-started-with-angular",
+    "url": "https://www.educative.io/courses/getting-started-with-angular"
+  },
+  {
+    "title": "Modern Front-end Development for Rails",
+    "value": "https://www.educative.io/courses/modern-front-end-rails",
+    "url": "https://www.educative.io/courses/modern-front-end-rails"
+  },
+  {
+    "title": "Introduction to Master Pages in ASP.NET",
+    "value": "https://www.educative.io/courses/master-pages-asp-net",
+    "url": "https://www.educative.io/courses/master-pages-asp-net"
+  },
+  {
+    "title": "Introduction to YAML",
+    "value": "https://www.educative.io/courses/introduction-to-yaml",
+    "url": "https://www.educative.io/courses/introduction-to-yaml"
+  },
+  {
+    "title": "Grokking Bit Manipulation for Coding Interviews",
+    "value": "https://www.educative.io/courses/bit-manipulation",
+    "url": "https://www.educative.io/courses/bit-manipulation"
+  },
+  {
+    "title": "Data Structures for Coding Interviews in C#",
+    "value": "https://www.educative.io/courses/data-structures-interviews-cs",
+    "url": "https://www.educative.io/courses/data-structures-interviews-cs"
+  },
+  {
+    "title": "Full Reactive Stack: Spring Boot 2 & Spring WebFlux",
+    "value": "https://www.educative.io/courses/full-reactive-stack-spring",
+    "url": "https://www.educative.io/courses/full-reactive-stack-spring"
+  },
+  {
+    "title": "Make Your First GAN Using PyTorch",
+    "value": "https://www.educative.io/courses/make-your-first-gan-pytorch",
+    "url": "https://www.educative.io/courses/make-your-first-gan-pytorch"
+  },
+  {
+    "title": "The Hacker's Guide to Scaling Python",
+    "value": "https://www.educative.io/courses/hackers-guide-scaling-python",
+    "url": "https://www.educative.io/courses/hackers-guide-scaling-python"
+  },
+  {
+    "title": "Introduction to Human-Computer Interaction",
+    "value": "https://www.educative.io/courses/intro-human-computer-interaction",
+    "url": "https://www.educative.io/courses/intro-human-computer-interaction"
+  },
+  {
+    "title": "Learn Functional Programming in Haskell",
+    "value": "https://www.educative.io/courses/functional-programming-haskell",
+    "url": "https://www.educative.io/courses/functional-programming-haskell"
+  },
+  {
+    "title": "Angular: Designing and Architecting Web Applications",
+    "value": "https://www.educative.io/courses/angular-designing-architecting-web-apps",
+    "url": "https://www.educative.io/courses/angular-designing-architecting-web-apps"
+  },
+  {
+    "title": "Developing Applications with ASP.NET Core",
+    "value": "https://www.educative.io/courses/developing-applications-with-asp-net-core",
+    "url": "https://www.educative.io/courses/developing-applications-with-asp-net-core"
+  },
+  {
+    "title": "Introduction to Ruby on Rails",
+    "value": "https://www.educative.io/courses/introduction-to-ruby-on-rails",
+    "url": "https://www.educative.io/courses/introduction-to-ruby-on-rails"
+  },
+  {
+    "title": "Feature Engineering for Machine Learning",
+    "value": "https://www.educative.io/courses/feature-engineering-for-machine-learning",
+    "url": "https://www.educative.io/courses/feature-engineering-for-machine-learning"
+  },
+  {
+    "title": "Ace the AP Computer Science Exam for High Schoolers",
+    "value": "https://www.educative.io/courses/ace-the-advanced-placement-computer-science-exam",
+    "url": "https://www.educative.io/courses/ace-the-advanced-placement-computer-science-exam"
+  },
+  {
+    "title": "Introduction to Visualization Using D3.js",
+    "value": "https://www.educative.io/courses/introduction-to-visualization-using-d3-js",
+    "url": "https://www.educative.io/courses/introduction-to-visualization-using-d3-js"
+  },
+  {
+    "title": "Oauth2 with Spring Security",
+    "value": "https://www.educative.io/courses/oauth2-with-spring-security",
+    "url": "https://www.educative.io/courses/oauth2-with-spring-security"
+  },
+  {
+    "title": "Java Exception Handling Made Simple",
+    "value": "https://www.educative.io/courses/java-exception-handling-made-simple",
+    "url": "https://www.educative.io/courses/java-exception-handling-made-simple"
+  },
+  {
+    "title": "A Hands-on Guide to Angular",
+    "value": "https://www.educative.io/courses/a-hands-on-guide-to-angular",
+    "url": "https://www.educative.io/courses/a-hands-on-guide-to-angular"
+  },
+  {
+    "title": "Complete Guide to Redis",
+    "value": "https://www.educative.io/courses/complete-guide-to-redis",
+    "url": "https://www.educative.io/courses/complete-guide-to-redis"
+  },
+  {
+    "title": "Up and running with Node and GraphQL",
+    "value": "https://www.educative.io/courses/up-and-running-with-node-and-graphql",
+    "url": "https://www.educative.io/courses/up-and-running-with-node-and-graphql"
+  },
+  {
+    "title": "A Deep Dive into React Hooks",
+    "value": "https://www.educative.io/courses/a-deep-dive-into-react-hooks",
+    "url": "https://www.educative.io/courses/a-deep-dive-into-react-hooks"
+  },
+  {
+    "title": "JavaScript Regular Expressions in Detail",
+    "value": "https://www.educative.io/courses/javascript-regular-expressions-in-detail",
+    "url": "https://www.educative.io/courses/javascript-regular-expressions-in-detail"
+  },
+  {
+    "title": "Introduction to Big Data and Hadoop",
+    "value": "https://www.educative.io/courses/introduction-to-big-data-and-hadoop",
+    "url": "https://www.educative.io/courses/introduction-to-big-data-and-hadoop"
+  },
+  {
+    "title": "Hands-on Vue.js: Build a fully functional SPA",
+    "value": "https://www.educative.io/courses/hands-on-vue-js-build-fully-functional-spa",
+    "url": "https://www.educative.io/courses/hands-on-vue-js-build-fully-functional-spa"
+  },
+  {
+    "title": "Build Java Projects with Maven",
+    "value": "https://www.educative.io/courses/build-java-projects-with-maven",
+    "url": "https://www.educative.io/courses/build-java-projects-with-maven"
+  },
+  {
+    "title": "Developing Mobile Apps with Ionic and React",
+    "value": "https://www.educative.io/courses/developing-mobile-apps-with-ionic-and-react",
+    "url": "https://www.educative.io/courses/developing-mobile-apps-with-ionic-and-react"
+  },
+  {
+    "title": "Learn Functional Programming in Python",
+    "value": "https://www.educative.io/courses/learn-functional-programming-in-python",
+    "url": "https://www.educative.io/courses/learn-functional-programming-in-python"
+  },
+  {
+    "title": "A Guide to Securing Node.js Applications",
+    "value": "https://www.educative.io/courses/securing-nodejs-apps",
+    "url": "https://www.educative.io/courses/securing-nodejs-apps"
+  },
+  {
+    "title": "Building Full-Stack Web Applications with AdonisJs",
+    "value": "https://www.educative.io/courses/building-full-stack-web-applications-adonisjs",
+    "url": "https://www.educative.io/courses/building-full-stack-web-applications-adonisjs"
+  },
+  {
+    "title": "Information Representation in Computer Systems",
+    "value": "https://www.educative.io/courses/information-representation-computer-systems",
+    "url": "https://www.educative.io/courses/information-representation-computer-systems"
+  },
+  {
+    "title": "Web Development Interview Handbook",
+    "value": "https://www.educative.io/courses/web-development-interview-handbook",
+    "url": "https://www.educative.io/courses/web-development-interview-handbook"
+  },
+  {
+    "title": "JavaScript in Detail: From Beginner to Advanced",
+    "value": "https://www.educative.io/courses/javascript-in-detail-from-beginner-to-advanced",
+    "url": "https://www.educative.io/courses/javascript-in-detail-from-beginner-to-advanced"
+  },
+  {
+    "title": "Learn Kubernetes: A Deep Dive",
+    "value": "https://www.educative.io/courses/the-kubernetes-course",
+    "url": "https://www.educative.io/courses/the-kubernetes-course"
+  },
+  {
+    "title": "A Complete Guide to Java Programming",
+    "value": "https://www.educative.io/courses/complete-guide-to-java-programming",
+    "url": "https://www.educative.io/courses/complete-guide-to-java-programming"
+  },
+  {
+    "title": "A Beginner's Guide to Deep Learning",
+    "value": "https://www.educative.io/courses/beginners-guide-to-deep-learning",
+    "url": "https://www.educative.io/courses/beginners-guide-to-deep-learning"
+  },
+  {
+    "title": "The DevOps Toolkit: Kubernetes Chaos Engineering",
+    "value": "https://www.educative.io/courses/devops-toolkit-kubernetes-chaos-engineering",
+    "url": "https://www.educative.io/courses/devops-toolkit-kubernetes-chaos-engineering"
+  },
+  {
+    "title": "Building Advanced Deep Learning and NLP Projects",
+    "value": "https://www.educative.io/courses/building-advanced-deep-learning-nlp-projects",
+    "url": "https://www.educative.io/courses/building-advanced-deep-learning-nlp-projects"
+  },
+  {
+    "title": "Advanced Programming Techniques in D",
+    "value": "https://www.educative.io/courses/advanced-programming-techniques-in-d",
+    "url": "https://www.educative.io/courses/advanced-programming-techniques-in-d"
+  },
+  {
+    "title": "Data Science Interview Handbook",
+    "value": "https://www.educative.io/courses/data-science-interview-handbook",
+    "url": "https://www.educative.io/courses/data-science-interview-handbook"
+  },
+  {
+    "title": "Modern Android App Development with Kotlin",
+    "value": "https://www.educative.io/courses/modern-android-app-development-kotlin",
+    "url": "https://www.educative.io/courses/modern-android-app-development-kotlin"
+  },
+  {
+    "title": "Developing Web Applications with Dart",
+    "value": "https://www.educative.io/courses/developing-web-applications-with-dart",
+    "url": "https://www.educative.io/courses/developing-web-applications-with-dart"
+  },
+  {
+    "title": "Python FTW: Under the Hood",
+    "value": "https://www.educative.io/courses/python-ftw-under-the-hood",
+    "url": "https://www.educative.io/courses/python-ftw-under-the-hood"
+  },
+  {
+    "title": "Google Cloud: AI Speech-to-Text with Python 3",
+    "value": "https://www.educative.io/courses/google-cloud-ai-speech-to-text-python-3",
+    "url": "https://www.educative.io/courses/google-cloud-ai-speech-to-text-python-3"
+  },
+  {
+    "title": "Build Your Own Chatbot in Python",
+    "value": "https://www.educative.io/courses/build-your-own-chatbot-in-python",
+    "url": "https://www.educative.io/courses/build-your-own-chatbot-in-python"
+  },
+  {
+    "title": "A Guide to Vagrant and Virtual Machines",
+    "value": "https://www.educative.io/courses/guide-to-vagrant-virtual-machines",
+    "url": "https://www.educative.io/courses/guide-to-vagrant-virtual-machines"
+  },
+  {
+    "title": "Advanced Programming Techniques in C",
+    "value": "https://www.educative.io/courses/advanced-programming-techniques-in-c",
+    "url": "https://www.educative.io/courses/advanced-programming-techniques-in-c"
+  },
+  {
+    "title": "Building Reactive Applications with RxJS",
+    "value": "https://www.educative.io/courses/building-reactive-applications-with-rxjs",
+    "url": "https://www.educative.io/courses/building-reactive-applications-with-rxjs"
+  },
+  {
+    "title": "Hands-on Machine Learning with Scikit-Learn",
+    "value": "https://www.educative.io/courses/hands-on-machine-learning-with-scikit-learn",
+    "url": "https://www.educative.io/courses/hands-on-machine-learning-with-scikit-learn"
+  },
+  {
+    "title": "The Complete Guide to jQuery",
+    "value": "https://www.educative.io/courses/complete-guide-to-jquery",
+    "url": "https://www.educative.io/courses/complete-guide-to-jquery"
+  },
+  {
+    "title": "Performance Test Automation 101: Gatling, Lighthouse, & Jenkins",
+    "value": "https://www.educative.io/courses/performance-test-automation-101-gatling-lighthouse-jenkins",
+    "url": "https://www.educative.io/courses/performance-test-automation-101-gatling-lighthouse-jenkins"
+  },
+  {
+    "title": "Number Systems For Computer Scientists",
+    "value": "https://www.educative.io/courses/number-systems-for-computer-scientists",
+    "url": "https://www.educative.io/courses/number-systems-for-computer-scientists"
+  },
+  {
+    "title": "Password Security: How not to Store Passwords",
+    "value": "https://www.educative.io/courses/how-not-to-store-passwords",
+    "url": "https://www.educative.io/courses/how-not-to-store-passwords"
+  },
+  {
+    "title": "Mastering the Art of Programming in Python 3",
+    "value": "https://www.educative.io/courses/mastering-the-art-of-programming-in-python-3",
+    "url": "https://www.educative.io/courses/mastering-the-art-of-programming-in-python-3"
+  },
+  {
+    "title": "Django: Python Web Development Unleashed",
+    "value": "https://www.educative.io/courses/django-python-web-development",
+    "url": "https://www.educative.io/courses/django-python-web-development"
+  },
+  {
+    "title": "Python Quickstart for Experienced Programmers",
+    "value": "https://www.educative.io/courses/python-quickstart-for-experienced-programmers",
+    "url": "https://www.educative.io/courses/python-quickstart-for-experienced-programmers"
+  },
+  {
+    "title": "Developing Microservices with Spring Boot",
+    "value": "https://www.educative.io/courses/developing-microservices-with-spring-boot",
+    "url": "https://www.educative.io/courses/developing-microservices-with-spring-boot"
+  },
+  {
+    "title": "Software Architecture in Java: Design & Development",
+    "value": "https://www.educative.io/courses/software-architecture-in-java-design-development",
+    "url": "https://www.educative.io/courses/software-architecture-in-java-design-development"
+  },
+  {
+    "title": "Introduction to Computers & Programming",
+    "value": "https://www.educative.io/courses/introduction-to-computers-and-programming",
+    "url": "https://www.educative.io/courses/introduction-to-computers-and-programming"
+  },
+  {
+    "title": "Kerberos for Beginners: Intro to Network Authentication Protocol",
+    "value": "https://www.educative.io/courses/kerberos-for-beginners-intro-network-authentication-protocol",
+    "url": "https://www.educative.io/courses/kerberos-for-beginners-intro-network-authentication-protocol"
+  },
+  {
+    "title": "Creating a CRUD REST API with Deno & Oak",
+    "value": "https://www.educative.io/courses/creating-crud-rest-api-with-deno-oak",
+    "url": "https://www.educative.io/courses/creating-crud-rest-api-with-deno-oak"
+  },
+  {
+    "title": "A Guide to Git & Version Control",
+    "value": "https://www.educative.io/courses/guide-to-git-and-version-control",
+    "url": "https://www.educative.io/courses/guide-to-git-and-version-control"
+  },
+  {
+    "title": "Matplotlib for Python: Visually Represent Data with Plots",
+    "value": "https://www.educative.io/courses/matplotlib-for-python-visually-represent-data-with-plots",
+    "url": "https://www.educative.io/courses/matplotlib-for-python-visually-represent-data-with-plots"
+  },
+  {
+    "title": "CSS for Front-end Interviews",
+    "value": "https://www.educative.io/courses/css-for-front-end-interviews",
+    "url": "https://www.educative.io/courses/css-for-front-end-interviews"
+  },
+  {
+    "title": "HTML for Front-end Interviews",
+    "value": "https://www.educative.io/courses/html-for-front-end-interviews",
+    "url": "https://www.educative.io/courses/html-for-front-end-interviews"
+  },
+  {
+    "title": "Web Security and Access Management: JWT, OAuth2 & OpenId Connect",
+    "value": "https://www.educative.io/courses/web-security-access-management-jwt-oauth2-openid-connect",
+    "url": "https://www.educative.io/courses/web-security-access-management-jwt-oauth2-openid-connect"
+  },
+  {
+    "title": "Mastering XPath for Selenium",
+    "value": "https://www.educative.io/courses/mastering-xpath-for-selenium",
+    "url": "https://www.educative.io/courses/mastering-xpath-for-selenium"
+  },
+  {
+    "title": "Data Analysis & Processing with Pandas",
+    "value": "https://www.educative.io/courses/data-analysis-processing-with-pandas",
+    "url": "https://www.educative.io/courses/data-analysis-processing-with-pandas"
+  },
+  {
+    "title": "Data Science in Production: Building Scalable Model Pipelines",
+    "value": "https://www.educative.io/courses/data-science-in-production-building-scalable-model-pipelines",
+    "url": "https://www.educative.io/courses/data-science-in-production-building-scalable-model-pipelines"
+  },
+  {
+    "title": "JavaScript Design Patterns for Coding Interviews",
+    "value": "https://www.educative.io/courses/javascript-design-patterns-for-coding-interviews",
+    "url": "https://www.educative.io/courses/javascript-design-patterns-for-coding-interviews"
+  },
+  {
+    "title": "Optimize your web projects with Progressive Web Apps",
+    "value": "https://www.educative.io/courses/zero-to-hero-with-progressive-web-apps",
+    "url": "https://www.educative.io/courses/zero-to-hero-with-progressive-web-apps"
+  },
+  {
+    "title": "Web Application Security for the Everyday Software Engineer",
+    "value": "https://www.educative.io/courses/web-application-security-everyday-software-engineer",
+    "url": "https://www.educative.io/courses/web-application-security-everyday-software-engineer"
+  },
+  {
+    "title": "Working with Containers: Docker & Docker Compose",
+    "value": "https://www.educative.io/courses/working-with-containers-docker-docker-compose",
+    "url": "https://www.educative.io/courses/working-with-containers-docker-docker-compose"
+  },
+  {
+    "title": "Dynamic Programming in Python: Optimizing Programs for Efficiency",
+    "value": "https://www.educative.io/courses/dynamic-programming-in-python",
+    "url": "https://www.educative.io/courses/dynamic-programming-in-python"
+  },
+  {
+    "title": "Predictive Data Analysis with Python",
+    "value": "https://www.educative.io/courses/predictive-data-analysis-with-python",
+    "url": "https://www.educative.io/courses/predictive-data-analysis-with-python"
+  },
+  {
+    "title": "Algorithms for Coding Interviews in Java",
+    "value": "https://www.educative.io/courses/algorithms-coding-interviews-java",
+    "url": "https://www.educative.io/courses/algorithms-coding-interviews-java"
+  },
+  {
+    "title": "Algorithms for Coding Interviews in Python",
+    "value": "https://www.educative.io/courses/algorithms-coding-interviews-python",
+    "url": "https://www.educative.io/courses/algorithms-coding-interviews-python"
+  },
+  {
+    "title": "The Ultimate Guide to Kotlin Programming",
+    "value": "https://www.educative.io/courses/ultimate-guide-programming-in-kotlin",
+    "url": "https://www.educative.io/courses/ultimate-guide-programming-in-kotlin"
+  },
+  {
+    "title": "Competitive Programming in C++: The Keys to Success",
+    "value": "https://www.educative.io/courses/competitive-programming-in-cpp-keys-to-success",
+    "url": "https://www.educative.io/courses/competitive-programming-in-cpp-keys-to-success"
+  },
+  {
+    "title": "Simplifying JavaScript: A Handy Guide for Software Engineers",
+    "value": "https://www.educative.io/courses/simplifying-javascript-handy-guide",
+    "url": "https://www.educative.io/courses/simplifying-javascript-handy-guide"
+  },
+  {
+    "title": "The DevOps Toolkit: Working with Jenkins X",
+    "value": "https://www.educative.io/courses/devops-toolkit-working-with-jenkins-x",
+    "url": "https://www.educative.io/courses/devops-toolkit-working-with-jenkins-x"
+  },
+  {
+    "title": "Practical Security: Simple Practices for Defending Your Systems",
+    "value": "https://www.educative.io/courses/practical-security-defending-your-systems",
+    "url": "https://www.educative.io/courses/practical-security-defending-your-systems"
+  },
+  {
+    "title": "Beginning Flutter: Android Mobile App Development",
+    "value": "https://www.educative.io/courses/beginning-flutter-android-mobile-app-development",
+    "url": "https://www.educative.io/courses/beginning-flutter-android-mobile-app-development"
+  },
+  {
+    "title": "Learn REST and SOAP API Test Automation in Java",
+    "value": "https://www.educative.io/courses/learn-rest-soap-api-test-automation-java",
+    "url": "https://www.educative.io/courses/learn-rest-soap-api-test-automation-java"
+  },
+  {
+    "title": "Learn C++: The Complete Course for Beginners",
+    "value": "https://www.educative.io/courses/learn-cpp-complete-course",
+    "url": "https://www.educative.io/courses/learn-cpp-complete-course"
+  },
+  {
+    "title": "Web Development: Unraveling HTML, CSS, and JavaScript",
+    "value": "https://www.educative.io/courses/web-development-unraveling-html-css-js",
+    "url": "https://www.educative.io/courses/web-development-unraveling-html-css-js"
+  },
+  {
+    "title": "Advanced TypeScript Masterclass",
+    "value": "https://www.educative.io/courses/advanced-typescript-masterclass",
+    "url": "https://www.educative.io/courses/advanced-typescript-masterclass"
+  },
+  {
+    "title": "Programming in D: The Ultimate Guide for Software Engineers",
+    "value": "https://www.educative.io/courses/programming-in-d-ultimate-guide",
+    "url": "https://www.educative.io/courses/programming-in-d-ultimate-guide"
+  },
+  {
+    "title": "Using TypeScript with React",
+    "value": "https://www.educative.io/courses/using-typescript-with-react",
+    "url": "https://www.educative.io/courses/using-typescript-with-react"
+  },
+  {
+    "title": "React Tracked: Creating Web Apps with Global State",
+    "value": "https://www.educative.io/courses/react-tracked-web-apps-global-state",
+    "url": "https://www.educative.io/courses/react-tracked-web-apps-global-state"
+  },
+  {
+    "title": "An Introductory Guide to SQL",
+    "value": "https://www.educative.io/courses/introductory-guide-to-sql",
+    "url": "https://www.educative.io/courses/introductory-guide-to-sql"
+  },
+  {
+    "title": "Design a Test Automation Framework with Selenium and Java",
+    "value": "https://www.educative.io/courses/test-automation-framework-selenium-java",
+    "url": "https://www.educative.io/courses/test-automation-framework-selenium-java"
+  },
+  {
+    "title": "The JavaScript Interview Handbook: 100+ Interview Questions",
+    "value": "https://www.educative.io/courses/javascript-interview-handbook",
+    "url": "https://www.educative.io/courses/javascript-interview-handbook"
+  },
+  {
+    "title": "Advanced Kubernetes Techniques: Monitoring, Logging, Auto-Scaling",
+    "value": "https://www.educative.io/courses/advanced-kubernetes-techniques",
+    "url": "https://www.educative.io/courses/advanced-kubernetes-techniques"
+  },
+  {
+    "title": "Grokking the Behavioral Interview",
+    "value": "https://www.educative.io/courses/grokking-the-behavioral-interview",
+    "url": "https://www.educative.io/courses/grokking-the-behavioral-interview"
+  },
+  {
+    "title": "Microservice Architecture: Practical Implementation",
+    "value": "https://www.educative.io/courses/microservice-architecture-practical-implementation",
+    "url": "https://www.educative.io/courses/microservice-architecture-practical-implementation"
+  },
+  {
+    "title": "CSS Theming for Professionals",
+    "value": "https://www.educative.io/courses/css-theming-for-professionals",
+    "url": "https://www.educative.io/courses/css-theming-for-professionals"
+  },
+  {
+    "title": "Running Serverless Applications with AWS Lambda",
+    "value": "https://www.educative.io/courses/running-serverless-applications-aws-lambda",
+    "url": "https://www.educative.io/courses/running-serverless-applications-aws-lambda"
+  },
+  {
+    "title": "Modern Android App Development with Java",
+    "value": "https://www.educative.io/courses/modern-android-app-development",
+    "url": "https://www.educative.io/courses/modern-android-app-development"
+  },
+  {
+    "title": "C++ Fundamentals for Professionals",
+    "value": "https://www.educative.io/courses/cpp-fundamentals-for-professionals",
+    "url": "https://www.educative.io/courses/cpp-fundamentals-for-professionals"
+  },
+  {
+    "title": "Python Data Analysis and Visualization",
+    "value": "https://www.educative.io/courses/python-data-analysis-and-visualization",
+    "url": "https://www.educative.io/courses/python-data-analysis-and-visualization"
+  },
+  {
+    "title": "Sass for CSS: Advanced Frontend Development",
+    "value": "https://www.educative.io/courses/sass-for-css",
+    "url": "https://www.educative.io/courses/sass-for-css"
+  },
+  {
+    "title": "Kotlin Crash Course for Programmers",
+    "value": "https://www.educative.io/courses/kotlin-crash-course-for-programmers",
+    "url": "https://www.educative.io/courses/kotlin-crash-course-for-programmers"
+  },
+  {
+    "title": "The Complete Guide to Modern JavaScript",
+    "value": "https://www.educative.io/courses/complete-guide-to-modern-javascript",
+    "url": "https://www.educative.io/courses/complete-guide-to-modern-javascript"
+  },
+  {
+    "title": "Full-Stack Web Applications with Firebase",
+    "value": "https://www.educative.io/courses/fullstack-web-apps-with-firebase",
+    "url": "https://www.educative.io/courses/fullstack-web-apps-with-firebase"
+  },
+  {
+    "title": "Become a Blockchain Developer",
+    "value": "https://www.educative.io/courses/hands-on-blockchain-hyperledger-fabric",
+    "url": "https://www.educative.io/courses/hands-on-blockchain-hyperledger-fabric"
+  },
+  {
+    "title": "Python for Scientists and Engineers",
+    "value": "https://www.educative.io/courses/python-for-scientists-and-engineers",
+    "url": "https://www.educative.io/courses/python-for-scientists-and-engineers"
+  },
+  {
+    "title": "Data Science for Non-Programmers",
+    "value": "https://www.educative.io/courses/data-science-for-non-programmers",
+    "url": "https://www.educative.io/courses/data-science-for-non-programmers"
+  },
+  {
+    "title": "Flask: Develop Web Applications in Python",
+    "value": "https://www.educative.io/courses/flask-develop-web-applications-in-python",
+    "url": "https://www.educative.io/courses/flask-develop-web-applications-in-python"
+  },
+  {
+    "title": "Web Application and Software Architecture 101",
+    "value": "https://www.educative.io/courses/web-application-software-architecture-101",
+    "url": "https://www.educative.io/courses/web-application-software-architecture-101"
+  },
+  {
+    "title": "Learn Dart: First Step to Flutter",
+    "value": "https://www.educative.io/courses/learn-dart-first-step-to-flutter",
+    "url": "https://www.educative.io/courses/learn-dart-first-step-to-flutter"
+  },
+  {
+    "title": "Grokking Computer Networking for Software Engineers",
+    "value": "https://www.educative.io/courses/grokking-computer-networking",
+    "url": "https://www.educative.io/courses/grokking-computer-networking"
+  },
+  {
+    "title": "Ruby Concurrency for Senior Engineering Interviews",
+    "value": "https://www.educative.io/courses/ruby-concurrency-for-senior-engineering-interviews",
+    "url": "https://www.educative.io/courses/ruby-concurrency-for-senior-engineering-interviews"
+  },
+  {
+    "title": "Reintroducing React: V16 and Beyond",
+    "value": "https://www.educative.io/courses/reintroducing-react-v16-beyond",
+    "url": "https://www.educative.io/courses/reintroducing-react-v16-beyond"
+  },
+  {
+    "title": "Data Structures and Algorithms in Python",
+    "value": "https://www.educative.io/courses/ds-and-algorithms-in-python",
+    "url": "https://www.educative.io/courses/ds-and-algorithms-in-python"
+  },
+  {
+    "title": "Grokking Data Science",
+    "value": "https://www.educative.io/courses/grokking-data-science",
+    "url": "https://www.educative.io/courses/grokking-data-science"
+  },
+  {
+    "title": "Embedded Programming with Modern C++",
+    "value": "https://www.educative.io/courses/embedded-programming-with-cpp",
+    "url": "https://www.educative.io/courses/embedded-programming-with-cpp"
+  },
+  {
+    "title": "Generic Programming Templates in C++",
+    "value": "https://www.educative.io/courses/generic-templates-in-cpp",
+    "url": "https://www.educative.io/courses/generic-templates-in-cpp"
+  },
+  {
+    "title": "Learn Object-Oriented Programming in C#",
+    "value": "https://www.educative.io/courses/learn-object-oriented-programming-in-c-sharp",
+    "url": "https://www.educative.io/courses/learn-object-oriented-programming-in-c-sharp"
+  },
+  {
+    "title": "Recursion for Coding Interviews in JavaScript",
+    "value": "https://www.educative.io/courses/recursion-for-coding-interviews-in-javascript",
+    "url": "https://www.educative.io/courses/recursion-for-coding-interviews-in-javascript"
+  },
+  {
+    "title": "C# Concurrency for Senior Engineering Interviews",
+    "value": "https://www.educative.io/courses/c-sharp-concurrency-for-senior-engineering-interviews",
+    "url": "https://www.educative.io/courses/c-sharp-concurrency-for-senior-engineering-interviews"
+  },
+  {
+    "title": "Learn Rust from Scratch",
+    "value": "https://www.educative.io/courses/learn-rust-from-scratch",
+    "url": "https://www.educative.io/courses/learn-rust-from-scratch"
+  },
+  {
+    "title": "Docker for Developers",
+    "value": "https://www.educative.io/courses/docker-for-developers",
+    "url": "https://www.educative.io/courses/docker-for-developers"
+  },
+  {
+    "title": "Fixing Random: Techniques in C#",
+    "value": "https://www.educative.io/courses/fixing-random-techniques-in-c-sharp",
+    "url": "https://www.educative.io/courses/fixing-random-techniques-in-c-sharp"
+  },
+  {
+    "title": "Python Concurrency for Senior Engineering Interviews",
+    "value": "https://www.educative.io/courses/python-concurrency-for-senior-engineering-interviews",
+    "url": "https://www.educative.io/courses/python-concurrency-for-senior-engineering-interviews"
+  },
+  {
+    "title": "Image Recognition with Machine Learning",
+    "value": "https://www.educative.io/courses/image-recognition-ml",
+    "url": "https://www.educative.io/courses/image-recognition-ml"
+  },
+  {
+    "title": "Natural Language Processing with Machine Learning",
+    "value": "https://www.educative.io/courses/natural-language-processing-ml",
+    "url": "https://www.educative.io/courses/natural-language-processing-ml"
+  },
+  {
+    "title": "Applied Machine Learning: Deep Learning for Industry",
+    "value": "https://www.educative.io/courses/deep-learning-for-industry",
+    "url": "https://www.educative.io/courses/deep-learning-for-industry"
+  },
+  {
+    "title": "Applied Machine Learning: Industry Case Study with TensorFlow",
+    "value": "https://www.educative.io/courses/industry-case-study-tensorflow",
+    "url": "https://www.educative.io/courses/industry-case-study-tensorflow"
+  },
+  {
+    "title": "Master the Bash Shell",
+    "value": "https://www.educative.io/courses/master-the-bash-shell",
+    "url": "https://www.educative.io/courses/master-the-bash-shell"
+  },
+  {
+    "title": "The Definitive Guide to MongoDB",
+    "value": "https://www.educative.io/courses/definitive-guide-to-mongodb",
+    "url": "https://www.educative.io/courses/definitive-guide-to-mongodb"
+  },
+  {
+    "title": "Learn Scala from Scratch",
+    "value": "https://www.educative.io/courses/learn-scala-from-scratch",
+    "url": "https://www.educative.io/courses/learn-scala-from-scratch"
+  },
+  {
+    "title": "Advanced React Patterns With Hooks",
+    "value": "https://www.educative.io/courses/advanced-react-patterns-with-hooks",
+    "url": "https://www.educative.io/courses/advanced-react-patterns-with-hooks"
+  },
+  {
+    "title": "Learn Python 3 from Scratch",
+    "value": "https://www.educative.io/courses/learn-python-3-from-scratch",
+    "url": "https://www.educative.io/courses/learn-python-3-from-scratch"
+  },
+  {
+    "title": "A Practical Guide to Kubernetes",
+    "value": "https://www.educative.io/courses/practical-guide-to-kubernetes",
+    "url": "https://www.educative.io/courses/practical-guide-to-kubernetes"
+  },
+  {
+    "title": "Recursion for Coding Interviews in Python",
+    "value": "https://www.educative.io/courses/recursion-for-coding-interviews-in-python",
+    "url": "https://www.educative.io/courses/recursion-for-coding-interviews-in-python"
+  },
+  {
+    "title": "Mastering Concurrency in Go",
+    "value": "https://www.educative.io/courses/mastering-concurrency-in-go",
+    "url": "https://www.educative.io/courses/mastering-concurrency-in-go"
+  },
+  {
+    "title": "The Java Interview Handbook: 300+ Interview Questions",
+    "value": "https://www.educative.io/courses/java-interview-handbook",
+    "url": "https://www.educative.io/courses/java-interview-handbook"
+  },
+  {
+    "title": "Recursion for Coding Interviews in Java",
+    "value": "https://www.educative.io/courses/recursion-for-coding-interviews-in-java",
+    "url": "https://www.educative.io/courses/recursion-for-coding-interviews-in-java"
+  },
+  {
+    "title": "Testing Vue.js Components with Jest",
+    "value": "https://www.educative.io/courses/testing-vuejs-components-with-jest",
+    "url": "https://www.educative.io/courses/testing-vuejs-components-with-jest"
+  },
+  {
+    "title": "Functional Programming with ReasonML",
+    "value": "https://www.educative.io/courses/functional-programming-with-reasonml",
+    "url": "https://www.educative.io/courses/functional-programming-with-reasonml"
+  },
+  {
+    "title": "Learn Object-Oriented Programming in Python",
+    "value": "https://www.educative.io/courses/learn-object-oriented-programming-in-python",
+    "url": "https://www.educative.io/courses/learn-object-oriented-programming-in-python"
+  },
+  {
+    "title": "Learn Object-Oriented Programming in JavaScript",
+    "value": "https://www.educative.io/courses/learn-object-oriented-programming-in-javascript",
+    "url": "https://www.educative.io/courses/learn-object-oriented-programming-in-javascript"
+  },
+  {
+    "title": "Learn R from Scratch",
+    "value": "https://www.educative.io/courses/learn-r-from-scratch",
+    "url": "https://www.educative.io/courses/learn-r-from-scratch"
+  },
+  {
+    "title": "Integrating Firebase with React",
+    "value": "https://www.educative.io/courses/integrating-firebase-with-react",
+    "url": "https://www.educative.io/courses/integrating-firebase-with-react"
+  },
+  {
+    "title": "Algorithms for Coding Interviews in C++",
+    "value": "https://www.educative.io/courses/algorithms-coding-interviews-cpp",
+    "url": "https://www.educative.io/courses/algorithms-coding-interviews-cpp"
+  },
+  {
+    "title": "Recursion for Coding Interviews in C++",
+    "value": "https://www.educative.io/courses/recursion-for-coding-interviews-in-cpp",
+    "url": "https://www.educative.io/courses/recursion-for-coding-interviews-in-cpp"
+  },
+  {
+    "title": "Learn Object-Oriented Programming in Java",
+    "value": "https://www.educative.io/courses/learn-object-oriented-programming-in-java",
+    "url": "https://www.educative.io/courses/learn-object-oriented-programming-in-java"
+  },
+  {
+    "title": "Learn Object-Oriented Programming in C++",
+    "value": "https://www.educative.io/courses/learn-object-oriented-programming-in-cpp",
+    "url": "https://www.educative.io/courses/learn-object-oriented-programming-in-cpp"
+  },
+  {
+    "title": "From Python to Numpy",
+    "value": "https://www.educative.io/courses/from-python-to-numpy",
+    "url": "https://www.educative.io/courses/from-python-to-numpy"
+  },
+  {
+    "title": "A Practical Guide to GraphQL: From the Client Perspective",
+    "value": "https://www.educative.io/courses/practical-guide-to-graphql-from-the-client-perspective",
+    "url": "https://www.educative.io/courses/practical-guide-to-graphql-from-the-client-perspective"
+  },
+  {
+    "title": "Learn PHP from Scratch",
+    "value": "https://www.educative.io/courses/learn-php-from-scratch",
+    "url": "https://www.educative.io/courses/learn-php-from-scratch"
+  },
+  {
+    "title": "Learn Java from Scratch",
+    "value": "https://www.educative.io/courses/learn-java-from-scratch",
+    "url": "https://www.educative.io/courses/learn-java-from-scratch"
+  },
+  {
+    "title": "The Complete Java Crash Course",
+    "value": "https://www.educative.io/courses/the-complete-java-crash-course",
+    "url": "https://www.educative.io/courses/the-complete-java-crash-course"
+  },
+  {
+    "title": "Java Unit Testing with JUnit 5",
+    "value": "https://www.educative.io/courses/java-unit-testing-with-junit-5",
+    "url": "https://www.educative.io/courses/java-unit-testing-with-junit-5"
+  },
+  {
+    "title": "C# for Programmers: A Practical Guide",
+    "value": "https://www.educative.io/courses/c-sharp-for-programmers-a-practical-guide",
+    "url": "https://www.educative.io/courses/c-sharp-for-programmers-a-practical-guide"
+  },
+  {
+    "title": "Full Speed Python",
+    "value": "https://www.educative.io/courses/full-speed-python",
+    "url": "https://www.educative.io/courses/full-speed-python"
+  },
+  {
+    "title": "Data Structures for Coding Interviews in C++",
+    "value": "https://www.educative.io/courses/data-structures-coding-interviews-cpp",
+    "url": "https://www.educative.io/courses/data-structures-coding-interviews-cpp"
+  },
+  {
+    "title": "Web Development: A Primer",
+    "value": "https://www.educative.io/courses/web-development-a-primer",
+    "url": "https://www.educative.io/courses/web-development-a-primer"
+  },
+  {
+    "title": "A Complete Guide to Launching Your Website: From Local to Live",
+    "value": "https://www.educative.io/courses/a-complete-guide-to-launching-your-website-from-local-to-live",
+    "url": "https://www.educative.io/courses/a-complete-guide-to-launching-your-website-from-local-to-live"
+  },
+  {
+    "title": "Learn C++ from Scratch",
+    "value": "https://www.educative.io/courses/learn-cpp-from-scratch",
+    "url": "https://www.educative.io/courses/learn-cpp-from-scratch"
+  },
+  {
+    "title": "C++17 in Detail: A Deep Dive",
+    "value": "https://www.educative.io/courses/cpp-17-in-detail-a-deep-dive",
+    "url": "https://www.educative.io/courses/cpp-17-in-detail-a-deep-dive"
+  },
+  {
+    "title": "JavaScript In Practice: ES6 And Beyond",
+    "value": "https://www.educative.io/courses/javascript-in-practice-es6-and-beyond",
+    "url": "https://www.educative.io/courses/javascript-in-practice-es6-and-beyond"
+  },
+  {
+    "title": "Grokking Dynamic Programming Patterns for Coding Interviews",
+    "value": "https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews",
+    "url": "https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews"
+  },
+  {
+    "title": "Understanding Redux: A Beginner's Guide To State Management",
+    "value": "https://www.educative.io/courses/understanding-redux-a-beginners-guide-to-state-management",
+    "url": "https://www.educative.io/courses/understanding-redux-a-beginners-guide-to-state-management"
+  },
+  {
+    "title": "Modern C++ Concurrency: Get the most out of any machine",
+    "value": "https://www.educative.io/courses/modern-cpp-concurrency-in-practice-get-the-most-out-of-any-machine",
+    "url": "https://www.educative.io/courses/modern-cpp-concurrency-in-practice-get-the-most-out-of-any-machine"
+  },
+  {
+    "title": "The Road to React: The One with Class Components",
+    "value": "https://www.educative.io/courses/road-to-react-with-class-components",
+    "url": "https://www.educative.io/courses/road-to-react-with-class-components"
+  },
+  {
+    "title": "Python 101: Interactively learn how to program with Python 3",
+    "value": "https://www.educative.io/courses/python-101-interactively-learn-how-to-program-with-python-3",
+    "url": "https://www.educative.io/courses/python-101-interactively-learn-how-to-program-with-python-3"
+  },
+  {
+    "title": "Complete JavaScript Course: Build a Real World App from Scratch",
+    "value": "https://www.educative.io/courses/the-complete-javascript-course-build-a-real-world-app-from-scratch",
+    "url": "https://www.educative.io/courses/the-complete-javascript-course-build-a-real-world-app-from-scratch"
+  },
+  {
+    "title": "Data Structures for Coding Interviews in JavaScript",
+    "value": "https://www.educative.io/courses/data-structures-coding-interviews-javascript",
+    "url": "https://www.educative.io/courses/data-structures-coding-interviews-javascript"
+  },
+  {
+    "title": "Data Structures for Coding Interviews in Java",
+    "value": "https://www.educative.io/courses/data-structures-coding-interviews-java",
+    "url": "https://www.educative.io/courses/data-structures-coding-interviews-java"
+  },
+  {
+    "title": "Data Structures for Coding Interviews in Python",
+    "value": "https://www.educative.io/courses/data-structures-coding-interviews-python",
+    "url": "https://www.educative.io/courses/data-structures-coding-interviews-python"
+  },
+  {
+    "title": "Learn Ruby from Scratch",
+    "value": "https://www.educative.io/courses/learn-ruby-from-scratch",
+    "url": "https://www.educative.io/courses/learn-ruby-from-scratch"
+  },
+  {
+    "title": "Big-O Notation For Coding Interviews and Beyond",
+    "value": "https://www.educative.io/courses/big-o-notation-for-interviews-and-beyond",
+    "url": "https://www.educative.io/courses/big-o-notation-for-interviews-and-beyond"
+  },
+  {
+    "title": "An Introduction to Programming in Go",
+    "value": "https://www.educative.io/courses/introduction-to-programming-in-go",
+    "url": "https://www.educative.io/courses/introduction-to-programming-in-go"
+  },
+  {
+    "title": "Learn HTML, CSS, and JavaScript from Scratch",
+    "value": "https://www.educative.io/courses/learn-html-css-javascript-from-scratch",
+    "url": "https://www.educative.io/courses/learn-html-css-javascript-from-scratch"
+  },
+  {
+    "title": "Functional Programming Patterns With RamdaJS!",
+    "value": "https://www.educative.io/courses/functional-programming-patterns-with-ramdajs",
+    "url": "https://www.educative.io/courses/functional-programming-patterns-with-ramdajs"
+  },
+  {
+    "title": "Mastering Data Structures and Sorting Algorithms in JavaScript",
+    "value": "https://www.educative.io/courses/mastering-data-structures-and-sorting-algorithms-in-javascript",
+    "url": "https://www.educative.io/courses/mastering-data-structures-and-sorting-algorithms-in-javascript"
+  },
+  {
+    "title": "C++ Standard Library including C++ 14 & C++ 17",
+    "value": "https://www.educative.io/courses/cpp-standard-library-including-cpp-14-and-cpp-17",
+    "url": "https://www.educative.io/courses/cpp-standard-library-including-cpp-14-and-cpp-17"
+  },
+  {
+    "title": "Software Design Patterns:  Best Practices for Software Developers",
+    "value": "https://www.educative.io/courses/software-design-patterns-best-practices",
+    "url": "https://www.educative.io/courses/software-design-patterns-best-practices"
+  },
+  {
+    "title": "Hour of Code: Build Your Robot World in Java",
+    "value": "https://www.educative.io/courses/hour-of-code-build-your-robot-world-in-java",
+    "url": "https://www.educative.io/courses/hour-of-code-build-your-robot-world-in-java"
+  },
+  {
+    "title": "Learn React.js, Redux & Immutable.js while building a weather app",
+    "value": "https://www.educative.io/courses/learn-reactjs-redux-and-immutablejs-while-building-a-weather-app",
+    "url": "https://www.educative.io/courses/learn-reactjs-redux-and-immutablejs-while-building-a-weather-app"
+  },
+  {
+    "title": "Introduction to JavaScript: First Steps",
+    "value": "https://www.educative.io/courses/introduction-to-javascript-first-steps",
+    "url": "https://www.educative.io/courses/introduction-to-javascript-first-steps"
+  },
+  {
+    "title": "Make Your Own Neural Network in Python",
+    "value": "https://www.educative.io/courses/make-your-own-neural-network-in-python",
+    "url": "https://www.educative.io/courses/make-your-own-neural-network-in-python"
+  },
+  {
+    "title": "Bash for Programmers",
+    "value": "https://www.educative.io/courses/bash-for-programmers",
+    "url": "https://www.educative.io/courses/bash-for-programmers"
+  },
+  {
+    "title": "Understanding Flexbox: Everything you need to know",
+    "value": "https://www.educative.io/courses/understanding-flexbox-everything-you-need-to-know",
+    "url": "https://www.educative.io/courses/understanding-flexbox-everything-you-need-to-know"
+  },
+  {
+    "title": "Let's learn ES6! Master new JavaScript features faster and easier",
+    "value": "https://www.educative.io/courses/lets-learn-es6-master-new-javascript-features-faster-and-easier",
+    "url": "https://www.educative.io/courses/lets-learn-es6-master-new-javascript-features-faster-and-easier"
+  },
+  {
+    "title": "The Complete Advanced Guide to CSS",
+    "value": "https://www.educative.io/courses/the-complete-advanced-guide-to-css",
+    "url": "https://www.educative.io/courses/the-complete-advanced-guide-to-css"
+  },
+  {
+    "title": "Java Multithreading for Senior Engineering Interviews",
+    "value": "https://www.educative.io/courses/java-multithreading-for-senior-engineering-interviews",
+    "url": "https://www.educative.io/courses/java-multithreading-for-senior-engineering-interviews"
+  },
+  {
+    "title": "Data Structures in JavaScript: Visualizations & Exercises",
+    "value": "https://www.educative.io/courses/data-structures-in-javascript-with-visualizations-and-hands-on-exercises",
+    "url": "https://www.educative.io/courses/data-structures-in-javascript-with-visualizations-and-hands-on-exercises"
+  },
+  {
+    "title": "Step Up Your JS: A Comprehensive Guide to Intermediate JavaScript",
+    "value": "https://www.educative.io/courses/step-up-your-js-a-comprehensive-guide-to-intermediate-javascript",
+    "url": "https://www.educative.io/courses/step-up-your-js-a-comprehensive-guide-to-intermediate-javascript"
+  },
+  {
+    "title": "JavaScript in Practice: Getting Started",
+    "value": "https://www.educative.io/courses/javascript-in-practice-getting-started",
+    "url": "https://www.educative.io/courses/javascript-in-practice-getting-started"
+  },
+  {
+    "title": "Practical Redux",
+    "value": "https://www.educative.io/courses/practical-redux",
+    "url": "https://www.educative.io/courses/practical-redux"
+  },
+  {
+    "title": "Coderust: Hacking the Coding Interview",
+    "value": "https://www.educative.io/courses/coderust-hacking-the-coding-interview",
+    "url": "https://www.educative.io/courses/coderust-hacking-the-coding-interview"
+  },
+  {
+    "title": "Learn C from Scratch",
+    "value": "https://www.educative.io/courses/learn-c-from-scratch",
+    "url": "https://www.educative.io/courses/learn-c-from-scratch"
+  },
+  {
+    "title": "JavaScript Fundamentals Before Learning React",
+    "value": "https://www.educative.io/courses/javascript-fundamentals-before-learning-react",
+    "url": "https://www.educative.io/courses/javascript-fundamentals-before-learning-react"
+  },
+  {
+    "title": "Learn the A to Z of  Amazon Web Services  (AWS)",
+    "value": "https://www.educative.io/courses/learn-the-a-to-z-of-amazon-web-services-aws",
+    "url": "https://www.educative.io/courses/learn-the-a-to-z-of-amazon-web-services-aws"
+  },
+  {
+    "title": "Intermediate JavaScript: Building Frontend Components",
+    "value": "https://www.educative.io/courses/intermediate-javascript",
+    "url": "https://www.educative.io/courses/intermediate-javascript"
+  },
+  {
+    "title": "Cloud Architecture: A Guide To Design &  Architect Your Cloud",
+    "value": "https://www.educative.io/courses/cloud-architecture-a-guide-to-design-and-architect-your-cloud",
+    "url": "https://www.educative.io/courses/cloud-architecture-a-guide-to-design-and-architect-your-cloud"
+  },
+  {
+    "title": "HTML5 Canvas: From Noob to Ninja - an interactive deep dive",
+    "value": "https://www.educative.io/courses/html5-canvas-from-noob-to-ninja-an-interactive-deep-dive",
+    "url": "https://www.educative.io/courses/html5-canvas-from-noob-to-ninja-an-interactive-deep-dive"
+  },
+  {
+    "title": "Master the JavaScript Interview",
+    "value": "https://www.educative.io/courses/master-the-javascript-interview",
+    "url": "https://www.educative.io/courses/master-the-javascript-interview"
+  },
+  {
+    "title": "Learn Data Science with Bash Shell",
+    "value": "https://www.educative.io/courses/learn-data-science-with-bash-shell",
+    "url": "https://www.educative.io/courses/learn-data-science-with-bash-shell"
+  },
+  {
+    "title": "Building Tesla’s Battery Range Calculator with React & Redux",
+    "value": "https://www.educative.io/courses/building-teslas-battery-range-calculator-with-react-and-redux",
+    "url": "https://www.educative.io/courses/building-teslas-battery-range-calculator-with-react-and-redux"
+  },
+  {
+    "title": "Python Regular Expressions with Data Scraping Projects",
+    "value": "https://www.educative.io/courses/python-regular-expressions-with-data-scraping-projects",
+    "url": "https://www.educative.io/courses/python-regular-expressions-with-data-scraping-projects"
+  },
+  {
+    "title": "Learn to Use HPC Systems and Supercomputers",
+    "value": "https://www.educative.io/courses/learn-to-use-hpc-systems-and-supercomputers",
+    "url": "https://www.educative.io/courses/learn-to-use-hpc-systems-and-supercomputers"
+  },
+  {
+    "title": "JS Assessment: Assess your Javascript skills",
+    "value": "https://www.educative.io/courses/assess-your-javascript-skills",
+    "url": "https://www.educative.io/courses/assess-your-javascript-skills"
+  },
+  {
+    "title": "Python 3: An interactive deep dive",
+    "value": "https://www.educative.io/courses/python-3-an-interactive-deep-dive",
+    "url": "https://www.educative.io/courses/python-3-an-interactive-deep-dive"
+  },
+  {
+    "title": "A Visual Introduction to Algorithms",
+    "value": "https://www.educative.io/courses/visual-introduction-to-algorithms",
+    "url": "https://www.educative.io/courses/visual-introduction-to-algorithms"
+  },
+  {
+    "title": "Kotlin Compact",
+    "value": "https://www.educative.io/collection/10370001/5973917893656576",
+    "url": "https://www.educative.io/collection/10370001/5973917893656576"
+  },
+  {
+    "title": "Navigating Cloud Engineering as a Career Path",
+    "value": "https://www.educative.io/collection/10370001/5994771730661376",
+    "url": "https://www.educative.io/collection/10370001/5994771730661376"
+  },
+  {
+    "title": "Learn Functional Programming in PHP",
+    "value": "https://www.educative.io/collection/10370001/6325367630987264",
+    "url": "https://www.educative.io/collection/10370001/6325367630987264"
+  }
 ]
