@@ -120,6 +120,46 @@
     "url": "https://www.educative.io/courses/database-design-fundamentals"
   },
   {
+    "title": "Grokking the Principles and Practices of Advanced System Design",
+    "value": "https://www.educative.io/courses/grokking-the-principles-and-practices-of-advanced-system-design",
+    "url": "https://www.educative.io/courses/grokking-the-principles-and-practices-of-advanced-system-design"
+  },
+  {
+    "title": "Navigating Cloud Engineering as a Career Path",
+    "value": "https://www.educative.io/courses/navigating-cloud-engineering-as-a-career-path",
+    "url": "https://www.educative.io/courses/navigating-cloud-engineering-as-a-career-path"
+  },
+  {
+    "title": "Kotlin Compact",
+    "value": "https://www.educative.io/courses/kotlin-compact",
+    "url": "https://www.educative.io/courses/kotlin-compact"
+  },
+  {
+    "title": "Learn Functional Programming in PHP",
+    "value": "https://www.educative.io/courses/learn-functional-programming-in-php",
+    "url": "https://www.educative.io/courses/learn-functional-programming-in-php"
+  },
+  {
+    "title": "Blogging Using the Blogger API in JavaScript",
+    "value": "https://www.educative.io/courses/blogging-using-the-blogger-api-in-javascript",
+    "url": "https://www.educative.io/courses/blogging-using-the-blogger-api-in-javascript"
+  },
+  {
+    "title": "Surfacing Event Data with the Ticketmaster APIs in JavaScript",
+    "value": "https://www.educative.io/courses/surfacing-event-data-with-the-ticketmaster-api-in-javascript",
+    "url": "https://www.educative.io/courses/surfacing-event-data-with-the-ticketmaster-api-in-javascript"
+  },
+  {
+    "title": "Automations with the Slack API in JavaScript",
+    "value": "https://www.educative.io/courses/automations-with-the-slack-api-in-javascript",
+    "url": "https://www.educative.io/courses/automations-with-the-slack-api-in-javascript"
+  },
+  {
+    "title": "Exploring Space with NASA APIs in JavaScript",
+    "value": "https://www.educative.io/courses/exploring-space-with-nasa-api-in-javascript",
+    "url": "https://www.educative.io/courses/exploring-space-with-nasa-api-in-javascript"
+  },
+  {
     "title": "Integrate the Spotify API in JavaScript",
     "value": "https://www.educative.io/courses/integrate-the-spotify-api-in-javascript",
     "url": "https://www.educative.io/courses/integrate-the-spotify-api-in-javascript"
@@ -1425,11 +1465,6 @@
     "url": "https://www.educative.io/courses/python-mech-aero-engineering"
   },
   {
-    "title": "Grokking the Advanced System Design Interview",
-    "value": "https://www.educative.io/courses/grokking-adv-system-design-intvw",
-    "url": "https://www.educative.io/courses/grokking-adv-system-design-intvw"
-  },
-  {
     "title": "Mobile Test Automation with Appium",
     "value": "https://www.educative.io/courses/mobile-test-auto-appium-101",
     "url": "https://www.educative.io/courses/mobile-test-auto-appium-101"
@@ -2575,18 +2610,18 @@
     "url": "https://www.educative.io/courses/visual-introduction-to-algorithms"
   },
   {
-    "title": "Kotlin Compact",
-    "value": "https://www.educative.io/collection/10370001/5973917893656576",
-    "url": "https://www.educative.io/collection/10370001/5973917893656576"
+    "title": "Building a WhatsApp Clone with Vue.js and AWS Amplify",
+    "value": "https://www.educative.io/collection/6586453712175104/6128927841452032",
+    "url": "https://www.educative.io/collection/6586453712175104/6128927841452032"
   },
   {
-    "title": "Navigating Cloud Engineering as a Career Path",
-    "value": "https://www.educative.io/collection/10370001/5994771730661376",
-    "url": "https://www.educative.io/collection/10370001/5994771730661376"
+    "title": "Getting Started with React Router v6",
+    "value": "https://www.educative.io/collection/6586453712175104/5882198296625152",
+    "url": "https://www.educative.io/collection/6586453712175104/5882198296625152"
   },
   {
-    "title": "Learn Functional Programming in PHP",
-    "value": "https://www.educative.io/collection/10370001/6325367630987264",
-    "url": "https://www.educative.io/collection/10370001/6325367630987264"
+    "title": "Concurrency in Go",
+    "value": "https://www.educative.io/collection/6586453712175104/5701294022459392",
+    "url": "https://www.educative.io/collection/6586453712175104/5701294022459392"
   }
 ]
