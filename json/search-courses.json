@@ -130,6 +130,31 @@
     "url": "https://www.educative.io/courses/database-design-fundamentals"
   },
   {
+    "title": "Mastering Angular Reactive Forms",
+    "value": "https://www.educative.io/courses/mastering-angular-reactive-forms",
+    "url": "https://www.educative.io/courses/mastering-angular-reactive-forms"
+  },
+  {
+    "title": "Angular Testing with Jasmine",
+    "value": "https://www.educative.io/courses/angular-testing-with-jasmine",
+    "url": "https://www.educative.io/courses/angular-testing-with-jasmine"
+  },
+  {
+    "title": "Staying Up to Date with the News API in JavaScript",
+    "value": "https://www.educative.io/courses/staying-up-to-date-with-the-news-api-in-javascript",
+    "url": "https://www.educative.io/courses/staying-up-to-date-with-the-news-api-in-javascript"
+  },
+  {
+    "title": "Getting Soccer Data with Api-Football in JavaScript",
+    "value": "https://www.educative.io/courses/getting-soccer-data-with-api-football-in-javascript",
+    "url": "https://www.educative.io/courses/getting-soccer-data-with-api-football-in-javascript"
+  },
+  {
+    "title": "Performing NLP Tasks Using the Cloudmersive API in JavaScript",
+    "value": "https://www.educative.io/courses/performing-nlp-tasks-using-the-cloudmersive-api-in-javascript",
+    "url": "https://www.educative.io/courses/performing-nlp-tasks-using-the-cloudmersive-api-in-javascript"
+  },
+  {
     "title": "Creating Alpine Linux Packages",
     "value": "https://www.educative.io/courses/creating-alpine-linux-packages",
     "url": "https://www.educative.io/courses/creating-alpine-linux-packages"
@@ -2918,30 +2943,5 @@
     "title": "A Visual Introduction to Algorithms",
     "value": "https://www.educative.io/courses/visual-introduction-to-algorithms",
     "url": "https://www.educative.io/courses/visual-introduction-to-algorithms"
-  },
-  {
-    "title": "Mastering Angular Reactive Forms",
-    "value": "https://www.educative.io/collection/5884426195042304/6676747538137088",
-    "url": "https://www.educative.io/collection/5884426195042304/6676747538137088"
-  },
-  {
-    "title": "Angular Testing with Jasmine",
-    "value": "https://www.educative.io/collection/6586453712175104/6401987377102848",
-    "url": "https://www.educative.io/collection/6586453712175104/6401987377102848"
-  },
-  {
-    "title": "Staying Up to Date with the News API in JavaScript",
-    "value": "https://www.educative.io/collection/10370001/6623549190307840",
-    "url": "https://www.educative.io/collection/10370001/6623549190307840"
-  },
-  {
-    "title": "Getting Soccer Data with Api-Football in JavaScript",
-    "value": "https://www.educative.io/collection/10370001/5656089528107008",
-    "url": "https://www.educative.io/collection/10370001/5656089528107008"
-  },
-  {
-    "title": "Performing NLP Tasks Using the Cloudmersive API in JavaScript",
-    "value": "https://www.educative.io/collection/10370001/4627895748395008",
-    "url": "https://www.educative.io/collection/10370001/4627895748395008"
   }
 ]
