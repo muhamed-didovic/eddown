@@ -1,11 +1,12 @@
 # Downloader and scraper for educative.io for pro members
 
 [![npm](https://badgen.net/npm/v/eddown)](https://www.npmjs.com/package/eddown)
+[![Downloads](https://img.shields.io/npm/dm/eddown.svg?style=flat)](https://www.npmjs.org/package/eddown)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmuhamed-didovic%2Feddown&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![license](https://flat.badgen.net/github/license/muhamed-didovic/eddown)](https://github.com/muhamed-didovic/eddown/blob/main/LICENSE)
 
-## Requirement
-- Node 18
+## Requirements
+- nodejs version >= 18
 - yt-dlp (https://github.com/yt-dlp/yt-dlp)
 
 ## Install
