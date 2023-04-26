@@ -105,6 +105,11 @@
     "url": "https://www.educative.io/courses/scalable-data-pipelines-kafka"
   },
   {
+    "title": "Learn Node.js: The Complete Course for Beginners",
+    "value": "https://www.educative.io/courses/learn-nodejs-complete-course-for-beginners",
+    "url": "https://www.educative.io/courses/learn-nodejs-complete-course-for-beginners"
+  },
+  {
     "title": "Machine Learning with NumPy, pandas, scikit-learn, and More",
     "value": "https://www.educative.io/courses/machine-learning-numpy-pandas-scikit-learn",
     "url": "https://www.educative.io/courses/machine-learning-numpy-pandas-scikit-learn"
@@ -115,11 +120,6 @@
     "url": "https://www.educative.io/courses/distributed-systems-practitioners"
   },
   {
-    "title": "Learn Node.js: The Complete Course for Beginners",
-    "value": "https://www.educative.io/courses/learn-nodejs-complete-course-for-beginners",
-    "url": "https://www.educative.io/courses/learn-nodejs-complete-course-for-beginners"
-  },
-  {
     "title": "The Ultimate Guide to Rust Programming",
     "value": "https://www.educative.io/courses/ultimate-guide-to-rust-programming",
     "url": "https://www.educative.io/courses/ultimate-guide-to-rust-programming"
@@ -128,6 +128,111 @@
     "title": "Database Design Fundamentals for Software Engineers",
     "value": "https://www.educative.io/courses/database-design-fundamentals",
     "url": "https://www.educative.io/courses/database-design-fundamentals"
+  },
+  {
+    "title": "Mastering MVVM Architecture in Android Development using Kotlin",
+    "value": "https://www.educative.io/courses/mastering-mvm-architecture-in-android-development-using-kotlin",
+    "url": "https://www.educative.io/courses/mastering-mvm-architecture-in-android-development-using-kotlin"
+  },
+  {
+    "title": "An In-Depth Understanding of Memory and Pointers in C",
+    "value": "https://www.educative.io/courses/in-depth-understanding-of-memory-and-pointers-in-c",
+    "url": "https://www.educative.io/courses/in-depth-understanding-of-memory-and-pointers-in-c"
+  },
+  {
+    "title": "Testing React Applications with Postman and WebdriverIO",
+    "value": "https://www.educative.io/courses/testing-react-applications-with-postman-and-webdriver-io",
+    "url": "https://www.educative.io/courses/testing-react-applications-with-postman-and-webdriver-io"
+  },
+  {
+    "title": "Creating Payment Card Programs using Marqeta API in JavaScript",
+    "value": "https://www.educative.io/courses/creating-payment-card-programs-using-marqeta-api-in-javascript",
+    "url": "https://www.educative.io/courses/creating-payment-card-programs-using-marqeta-api-in-javascript"
+  },
+  {
+    "title": "The Ultimate Guide to gRPC in ASP.NET Core",
+    "value": "https://www.educative.io/courses/the-ultimate-guide-to-grpc-in-asp-net-core",
+    "url": "https://www.educative.io/courses/the-ultimate-guide-to-grpc-in-asp-net-core"
+  },
+  {
+    "title": "Developing Play-to-Earn Games in Solidity",
+    "value": "https://www.educative.io/courses/developing-play-to-earn-games-in-solidity",
+    "url": "https://www.educative.io/courses/developing-play-to-earn-games-in-solidity"
+  },
+  {
+    "title": "Data Visualization and Analysis With Seaborn Library",
+    "value": "https://www.educative.io/courses/data-visualization-and-analysis-with-seaborn-library",
+    "url": "https://www.educative.io/courses/data-visualization-and-analysis-with-seaborn-library"
+  },
+  {
+    "title": "Handling Financial Services with Square API in JavaScript",
+    "value": "https://www.educative.io/courses/handling-financial-services-with-square-api-in-javascript",
+    "url": "https://www.educative.io/courses/handling-financial-services-with-square-api-in-javascript"
+  },
+  {
+    "title": "Discover Ruby Programming Through Fun Examples",
+    "value": "https://www.educative.io/courses/discover-ruby-programming-through-fun-examples",
+    "url": "https://www.educative.io/courses/discover-ruby-programming-through-fun-examples"
+  },
+  {
+    "title": "Custom User Authentication with Simple JWT in Django RESTful",
+    "value": "https://www.educative.io/courses/custom-user-authentication-with-simple-jwt-in-django-restful",
+    "url": "https://www.educative.io/courses/custom-user-authentication-with-simple-jwt-in-django-restful"
+  },
+  {
+    "title": "JavaScript Promises",
+    "value": "https://www.educative.io/courses/javascript-promises",
+    "url": "https://www.educative.io/courses/javascript-promises"
+  },
+  {
+    "title": "Building Reactive Apps with Svelte and Tailwind",
+    "value": "https://www.educative.io/courses/building-reactive-apps-with-svelte-and-tailwind",
+    "url": "https://www.educative.io/courses/building-reactive-apps-with-svelte-and-tailwind"
+  },
+  {
+    "title": "Fetching Recipes with TheMealDB and TheCocktailDB in JavaScript",
+    "value": "https://www.educative.io/courses/fetching-recipes-with-themealdb-and-thecocktaildb-in-javascript",
+    "url": "https://www.educative.io/courses/fetching-recipes-with-themealdb-and-thecocktaildb-in-javascript"
+  },
+  {
+    "title": "Grokking the API Design Interview",
+    "value": "https://www.educative.io/courses/grokking-the-api-design-interview",
+    "url": "https://www.educative.io/courses/grokking-the-api-design-interview"
+  },
+  {
+    "title": "Technical Program Management: A Practitioner's Guide",
+    "value": "https://www.educative.io/courses/technical-program-management-a-practitioners-guide",
+    "url": "https://www.educative.io/courses/technical-program-management-a-practitioners-guide"
+  },
+  {
+    "title": "Design and Build Great Web APIs",
+    "value": "https://www.educative.io/courses/design-and-build-great-web-api",
+    "url": "https://www.educative.io/courses/design-and-build-great-web-api"
+  },
+  {
+    "title": "Beginning Node.js, Express & MongoDB Development",
+    "value": "https://www.educative.io/courses/beginning-nodejs-express-mongodb-development",
+    "url": "https://www.educative.io/courses/beginning-nodejs-express-mongodb-development"
+  },
+  {
+    "title": "Querying Databases Using Transact-SQL",
+    "value": "https://www.educative.io/courses/querying-databases-using-transact-sql",
+    "url": "https://www.educative.io/courses/querying-databases-using-transact-sql"
+  },
+  {
+    "title": "Building a Serverless App Platform on Kubernetes",
+    "value": "https://www.educative.io/courses/building-a-serverless-app-platform-on-kubernetes",
+    "url": "https://www.educative.io/courses/building-a-serverless-app-platform-on-kubernetes"
+  },
+  {
+    "title": "Integrate the OpenWeatherMap APIs in JavaScript",
+    "value": "https://www.educative.io/courses/integrate-the-openweathermap-api-in-javascript",
+    "url": "https://www.educative.io/courses/integrate-the-openweathermap-api-in-javascript"
+  },
+  {
+    "title": "Getting Started with the Reddit API in JavaScript",
+    "value": "https://www.educative.io/courses/getting-started-with-the-reddit-api-in-javascript",
+    "url": "https://www.educative.io/courses/getting-started-with-the-reddit-api-in-javascript"
   },
   {
     "title": "Mastering Angular Reactive Forms",
@@ -2943,5 +3048,20 @@
     "title": "A Visual Introduction to Algorithms",
     "value": "https://www.educative.io/courses/visual-introduction-to-algorithms",
     "url": "https://www.educative.io/courses/visual-introduction-to-algorithms"
+  },
+  {
+    "title": "Mastering Jest: A Complete Guide to Testing",
+    "value": "https://www.educative.io/collection/6586453712175104/4605634393145344",
+    "url": "https://www.educative.io/collection/6586453712175104/4605634393145344"
+  },
+  {
+    "title": "Building Web-Based Games and Utility Projects Using JavaScript",
+    "value": "https://www.educative.io/collection/6586453712175104/6226898439110656",
+    "url": "https://www.educative.io/collection/6586453712175104/6226898439110656"
+  },
+  {
+    "title": "Time Series Analysis with Python",
+    "value": "https://www.educative.io/collection/6586453712175104/5602573239451648",
+    "url": "https://www.educative.io/collection/6586453712175104/5602573239451648"
   }
 ]
