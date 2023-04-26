@@ -1,6 +1,6 @@
 {
   "name": "eddown",
-  "version": "0.4.5",
+  "version": "0.4.6",
   "description": "Downloader and scraper for educative.io for members",
   "main": "index.js",
   "directories": {
@@ -56,8 +56,8 @@
     "p-limit": "^3.1.0",
     "pdfkit": "^0.13.0",
     "prompts": "^2.4.2",
-    "puppeteer": "^19.8.5",
-    "puppeteer-core": "^19.8.5",
+    "puppeteer": "^19.11.1",
+    "puppeteer-core": "^19.11.1",
     "puppeteer-extra": "^3.3.6",
     "puppeteer-extra-plugin-stealth": "^2.11.2",
     "remote-file-size": "^3.0.5",

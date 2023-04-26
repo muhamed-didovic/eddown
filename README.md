@@ -32,12 +32,13 @@ Options
     --file, -f          Location of the file where are the courses
     --overwrite, -o     Overwrite if resource exists (values: 'yes' or 'no'), default value is 'no'
     --headless, -h      Enable headless (values: 'yes' or 'no'), default value is 'yes'
+    --html, -t         Enable html download (values: 'yes' or 'no'), default value is 'yes'
     --concurrency, -c
 
 Examples
     $ eddown
     $ eddown -a
-    $ eddown [url] [-l url...] [-e user@gmail.com] [-p password] [-d dirname] [-c number] [-o yes or no] [-h yes or no]
+    $ eddown [url] [-l url...] [-e user@gmail.com] [-p password] [-d dirname] [-c number] [-o yes or no] [-h yes or no] [-t yes or no]
 ```
 
 ## License
