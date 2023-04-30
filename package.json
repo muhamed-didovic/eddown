@@ -1,6 +1,6 @@
 {
   "name": "eddown",
-  "version": "0.4.9",
+  "version": "0.4.10",
   "description": "Downloader and scraper for educative.io for members",
   "main": "index.js",
   "directories": {
@@ -41,6 +41,7 @@
     "cheerio": "^1.0.0-rc.12",
     "chrome-finder": "^1.0.7",
     "colors": "^1.4.0",
+    "debug": "^4.3.4",
     "dreidels": "^0.5.2",
     "fs-extra": "^11.1.1",
     "fuse.js": "^6.6.2",
