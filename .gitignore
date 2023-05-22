@@ -5,3 +5,5 @@ videos/
 *.log
 test/.cache
 coverage
+
+dist
