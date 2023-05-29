@@ -1,6 +1,6 @@
 {
   "name": "eddown",
-  "version": "0.4.12",
+  "version": "0.4.13",
   "description": "Downloader and scraper for educative.io for members",
   "main": "index.js",
   "directories": {
@@ -76,6 +76,25 @@
     "youtube-dl-wrap": "^2.1.1"
   },
   "devDependencies": {
+    "@types/bluebird": "^3.5.38",
+    "@types/colors": "^1.2.1",
+    "@types/debug": "^4.1.8",
+    "@types/eslint": "^8.40.0",
+    "@types/fs-extra": "^11.0.1",
+    "@types/he": "^1.2.0",
+    "@types/is-valid-path": "^0.1.0",
+    "@types/json2md": "^1.5.1",
+    "@types/lodash": "^4.14.195",
+    "@types/meow": "^6.0.0",
+    "@types/ora": "^3.2.0",
+    "@types/p-limit": "^2.2.0",
+    "@types/pdfkit": "^0.12.9",
+    "@types/prompts": "^2.4.4",
+    "@types/request": "^2.48.8",
+    "@types/requestretry": "^1.13.0",
+    "@types/svg2png": "^4.1.2",
+    "@types/tough-cookie": "^4.0.2",
+    "@types/website-scraper": "^1.2.6",
     "babel-jest": "^29.5.0",
     "eslint": "^8.37.0",
     "jest": "^29.5.0"
